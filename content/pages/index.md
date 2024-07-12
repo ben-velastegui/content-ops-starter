@@ -101,7 +101,7 @@ sections:
     styles:
       self:
         margin:
-          - mr-0
+          - mr-60
           - ml-60
   - type: DividerSection
     title: Divider
