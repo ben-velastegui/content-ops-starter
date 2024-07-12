@@ -60,7 +60,7 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-48
+            - mt-0
             - ml-48
             - mb-48
             - mr-48
