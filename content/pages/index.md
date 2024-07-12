@@ -88,17 +88,16 @@ sections:
           fontWeight: 400
           textAlign: center
     subtitle: Innovating with Machine Learning & Analytics
-    text: >+
-      \<div style="text-align: center">Aenean eros ipsum, interdum quis
-      dignissim non, sollicitudin vitae nisl.
+    text: >
+      A London based data scientist. I hold a Master's degree in Data Science &
+      Analytics from Brunel University and a Bachelor's degree in Marketing from
+      Richmond American University. My work focuses on integrating machine
+      learning and data analytics to drive innovative business solutions.
 
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
 
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at
-      risus.\</div>
-
+      I'm passionate about using tech to tackle real world problems. My
+      experience is in bioinformatics, ESG analytics, climate science, and the
+      financial markets.
     actions: []
     badge:
       type: Badge
