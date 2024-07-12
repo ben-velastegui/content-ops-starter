@@ -163,7 +163,7 @@ sections:
         type: FeaturedItem
       - title: Sustainable Finance
         tagline: Industry interests
-        subtitle: 'John Doe, Company'
+        subtitle: Promoting Ethical Investing with ESG Analytics
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
