@@ -102,7 +102,7 @@ sections:
       self:
         margin:
           - mr-0
-          - ml-72
+          - ml-64
   - type: DividerSection
     title: Divider
     elementId: ''
