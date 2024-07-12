@@ -40,6 +40,11 @@ sections:
             - pl-96
             - pb-96
             - pr-96
+          margin:
+            - mt-96
+            - ml-96
+            - mb-96
+            - mr-96
     badge:
       label: This is a badge
       color: text-primary
