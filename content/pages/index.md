@@ -98,7 +98,7 @@ sections:
     styles:
       self:
         margin:
-          - mr-3
+          - mr-0
   - type: DividerSection
     title: Divider
     elementId: ''
