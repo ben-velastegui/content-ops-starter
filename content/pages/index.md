@@ -10,6 +10,14 @@ sections:
     subtitle: Innovative. Analytical. Driven.
     text: ''
     actions:
+      - type: Link
+        altText: GitHub
+        url: 'https://github.com/Ben-s-v-Lopez'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: Projects
         altText: ''
         url: /
