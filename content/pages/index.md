@@ -95,6 +95,9 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
