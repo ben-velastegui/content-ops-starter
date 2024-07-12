@@ -91,6 +91,9 @@ sections:
       type: Badge
       label: Contact Us
       color: text-primary
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
