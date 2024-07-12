@@ -1,25 +1,26 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Projects",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +29,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "About Me",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -71,7 +72,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Career opportunities",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
@@ -80,7 +81,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Research collaboration",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -90,5 +91,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "Ben Lopez (BA., MSc.)"
 }
