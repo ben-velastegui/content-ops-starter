@@ -85,11 +85,17 @@ sections:
           fontWeight: 400
           textAlign: center
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+    text: >+
+      \<div style="text-align: center">Aenean eros ipsum, interdum quis
+      dignissim non, sollicitudin vitae nisl.
+
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at
+      risus.\</div>
+
     actions: []
     badge:
       type: Badge
