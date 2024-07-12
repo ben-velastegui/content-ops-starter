@@ -62,7 +62,7 @@ sections:
           margin:
             - mt-0
             - ml-48
-            - mb-48
+            - mb-0
             - mr-48
   - type: FeaturedItemsSection
     title:
