@@ -95,6 +95,10 @@ sections:
         self:
           textAlign: center
     colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mr-3
   - type: DividerSection
     title: Divider
     elementId: ''
