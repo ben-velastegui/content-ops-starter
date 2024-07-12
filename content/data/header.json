@@ -81,7 +81,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Research collaboration",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
