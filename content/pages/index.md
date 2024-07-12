@@ -194,7 +194,7 @@ sections:
         type: FeaturedItem
       - title: HealthTech
         tagline: Industry interests
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Innovating Diagnostic Accuracy with Analytics, Machine Learning, & AI'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
