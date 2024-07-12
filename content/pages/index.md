@@ -111,7 +111,7 @@ sections:
       self:
         margin:
           - mr-56
-          - ml-64
+          - ml-72
         padding:
           - pt-7
           - pb-7
