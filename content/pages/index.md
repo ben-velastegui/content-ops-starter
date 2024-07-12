@@ -64,10 +64,10 @@ sections:
             - pb-16
             - pr-16
           margin:
-            - mt-6
-            - ml-6
-            - mb-6
-            - mr-6
+            - mt-28
+            - ml-28
+            - mb-28
+            - mr-28
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
