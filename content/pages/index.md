@@ -161,7 +161,7 @@ sections:
           altText: John Doe
           styles:
             self:
-              borderRadius: full
+              borderRadius: large
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
