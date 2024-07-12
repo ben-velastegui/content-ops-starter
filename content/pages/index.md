@@ -28,23 +28,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/2330859 1.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-72
-            - ml-72
-            - mb-72
-            - mr-72
     badge:
       label: This is a badge
       color: text-primary
