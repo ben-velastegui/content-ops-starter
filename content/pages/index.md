@@ -117,6 +117,8 @@ sections:
           - pb-7
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
