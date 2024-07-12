@@ -87,7 +87,7 @@ sections:
         self:
           fontWeight: 400
           textAlign: center
-    subtitle: Section with a form subtitle
+    subtitle: Innovating with Machine Learning & Analytics
     text: >+
       \<div style="text-align: center">Aenean eros ipsum, interdum quis
       dignissim non, sollicitudin vitae nisl.
