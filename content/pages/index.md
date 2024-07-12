@@ -60,7 +60,7 @@ sections:
           borderRadius: medium
           padding:
             - pt-0
-            - pl-52
+            - pl-0
             - pb-0
             - pr-0
           margin:
