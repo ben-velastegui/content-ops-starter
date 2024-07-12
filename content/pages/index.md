@@ -18,6 +18,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: Projects
         altText: ''
         url: /
