@@ -3,9 +3,8 @@ title: '''Insight'' App & VR'
 slug: top-twenty-ways-to-save-time
 date: '2024-07-12'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  An iOS app with integrated VR capabilities to generate marketing audits,
+  suggest marketing campaigns, and visualises campaigns in a VR environment.
 featuredImage:
   url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
   altText: Thumbnail
