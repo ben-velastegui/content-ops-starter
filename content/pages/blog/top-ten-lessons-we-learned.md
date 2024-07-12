@@ -1,7 +1,7 @@
 ---
 title: Presenting the SFCMS at the Financial Conduct Authorities' DIFoR Conference
 slug: top-ten-lessons-we-learned
-date: '2021-08-25'
+date: '2021-08-01'
 excerpt: >-
   At the Data Innovation for Future of Regulation (DiFoR) conference, we
   presented our Sustainable Finance Compliance and Monitoring System (SFCMS), a
