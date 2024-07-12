@@ -82,7 +82,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 700
     subtitle: Section with a form subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
