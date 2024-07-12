@@ -52,7 +52,7 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/2330859 1.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
