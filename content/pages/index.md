@@ -63,6 +63,11 @@ sections:
             - pl-9
             - pb-9
             - pr-9
+          margin:
+            - mt-6
+            - ml-6
+            - mb-6
+            - mr-6
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
