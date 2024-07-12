@@ -1,7 +1,7 @@
 ---
 title: Sustainable Finance Compliance Monitoring System
 slug: surround-yourself-with-right-people
-date: '0002-07-05'
+date: '0202-07-05'
 excerpt: >-
   A nationally recognized award winning model for sustainable finance
   regulation, endorsed by the Financial Conduct Authority.
