@@ -92,7 +92,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Contact Us
+      label: KEY INSIGHTS OF A
       color: text-primary
       styles:
         self:
