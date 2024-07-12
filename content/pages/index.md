@@ -114,7 +114,7 @@ sections:
           - ml-72
         padding:
           - pt-8
-          - pb-7
+          - pb-8
       subtitle:
         textAlign: center
       text:
