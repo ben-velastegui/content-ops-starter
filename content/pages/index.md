@@ -107,6 +107,8 @@ sections:
         padding:
           - pt-7
           - pb-7
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
