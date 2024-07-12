@@ -195,10 +195,10 @@ sections:
       - title: HealthTech
         tagline: Industry interests
         subtitle: 'Innovating Diagnostic Accuracy with Analytics, Machine Learning, & AI'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I want to work in HealthTech to develop predictive models and
+          personalized treatment plans that enhance patient care and optimize
+          healthcare resources.
         image:
           altText: Maria Walters
           styles:
