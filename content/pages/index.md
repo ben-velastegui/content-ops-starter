@@ -81,7 +81,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: DATA SCIENTIST
+      text: Data Scientist
       color: text-dark
       styles:
         self:
