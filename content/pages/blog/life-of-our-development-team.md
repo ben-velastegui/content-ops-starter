@@ -3,11 +3,9 @@ title: Prostate Cancer Classification Model
 slug: life-of-our-development-team
 date: '2024-09-11'
 excerpt: >-
-  A hierarchical classification model for prostate cancer using supervised
-  machine learning algorithms such as SVM and genetic algorithms. This model,
-  integrated into a novel R package, enhances the accuracy of biomarker
-  discovery and classification based on Gleason scores, improving diagnostic
-  precision in prostate cancer.
+  A hierarchical classification model, integrated into a novel R package,
+  enhances biomarker discovery accuracy and classification based on Gleason
+  scores.
 featuredImage:
   url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.JPG
   altText: Thumbnail
