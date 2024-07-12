@@ -62,7 +62,7 @@ sections:
             - pt-0
             - pl-52
             - pb-0
-            - pr-52
+            - pr-0
           margin:
             - mt-28
             - ml-28
