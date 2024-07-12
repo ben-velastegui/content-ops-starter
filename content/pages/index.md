@@ -255,7 +255,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-0
+          - pt-3
       subtitle:
         textAlign: center
 seo:
