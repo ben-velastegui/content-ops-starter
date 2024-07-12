@@ -3,9 +3,10 @@ title: Presenting the SFCMS at the Financial Conduct Authorities' DIFoR Conferen
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  At the Data Innovation for Future of Regulation (DiFoR) conference, we
+  presented our Sustainable Finance Compliance and Monitoring System (SFCMS), a
+  data-driven solution designed to detect and prevent greenwashing in
+  sustainable finance using advanced machine learning techniques.
 featuredImage:
   url: /images/cf05df82-a4a3-43e7-9c69-2fd991188de1.JPG
   altText: Thumbnail
