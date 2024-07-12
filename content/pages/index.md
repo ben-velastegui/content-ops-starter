@@ -64,10 +64,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-5
-            - ml-5
-            - mb-5
-            - mr-5
+            - mt-72
+            - ml-72
+            - mb-72
+            - mr-72
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
