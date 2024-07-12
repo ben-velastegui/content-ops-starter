@@ -80,6 +80,9 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
     subtitle: Section with a form subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
