@@ -66,7 +66,7 @@ sections:
           margin:
             - mt-28
             - ml-28
-            - mb-28
+            - mb-0
             - mr-28
   - type: FeaturedItemsSection
     title:
