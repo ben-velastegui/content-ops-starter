@@ -96,7 +96,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: right
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
