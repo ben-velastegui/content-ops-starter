@@ -46,7 +46,7 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-40
           - pb-16
           - pr-16
     media:
