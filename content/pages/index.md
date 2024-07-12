@@ -59,10 +59,10 @@ sections:
         self:
           borderRadius: medium
           padding:
-            - pt-16
-            - pl-16
-            - pb-16
-            - pr-16
+            - pt-52
+            - pl-52
+            - pb-52
+            - pr-52
           margin:
             - mt-28
             - ml-28
