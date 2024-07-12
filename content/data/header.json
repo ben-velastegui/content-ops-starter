@@ -13,7 +13,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/pricing",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
