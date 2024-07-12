@@ -136,7 +136,7 @@ sections:
     items:
       - title: BioTech
         tagline: Industry interests
-        subtitle: 'Maria Walters, Company'
+        subtitle: Advancing Biological Treatments through Data Analytics
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
