@@ -105,6 +105,7 @@ sections:
           - ml-60
         padding:
           - pt-7
+          - pb-7
   - type: DividerSection
     title: Divider
     elementId: ''
