@@ -61,7 +61,7 @@ sections:
             - pr-0
           margin:
             - mt-0
-            - ml-48
+            - ml-0
             - mb-0
             - mr-48
   - type: FeaturedItemsSection
