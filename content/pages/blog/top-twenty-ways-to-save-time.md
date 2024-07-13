@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Prostate Cancer Classification Model
 slug: top-twenty-ways-to-save-time
 date: '2024-07-12'
 excerpt: >-
