@@ -53,7 +53,7 @@ sections:
           in biomarker discovery and genetic research.
         features:
           - 'Proficient in Python, R, and Bash scripting'
-          - Feature two
+          - Experience using Bioconductor
           - Feature three
           - Feature four
         image:
