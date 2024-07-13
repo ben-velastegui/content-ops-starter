@@ -61,7 +61,7 @@ topSections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Sustainable Finance Compliance Monitoring System
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
