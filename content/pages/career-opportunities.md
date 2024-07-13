@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: I'm actively looking
+      text: I'm actively looking for my next challenge!
       color: text-dark
     subtitle: Subtitle goes here
     text: >
