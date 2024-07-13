@@ -28,7 +28,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
             icon: arrowRight
             iconPosition: right
             style: secondary
