@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: '''Insight'' App & VR'
+title: ''
 date: '2024-07-12'
 author: content/data/person4.json
 excerpt: >-
