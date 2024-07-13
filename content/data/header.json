@@ -12,14 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Home",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Projects",
             "altText": "Blog",
             "url": "/blog",
