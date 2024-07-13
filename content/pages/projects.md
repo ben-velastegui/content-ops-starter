@@ -49,7 +49,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Recent Projects
       color: text-dark
 slug: /Projects
 isDraft: false
