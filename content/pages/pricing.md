@@ -54,7 +54,7 @@ sections:
         features:
           - 'Proficient in Python, R, and Bash scripting'
           - Experience using Bioconductor and BLAST
-          - Feature three
+          - Extensive expereice using NCBI database
           - Feature four
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
