@@ -47,14 +47,14 @@ sections:
       - title: PDF available
         price: BioTech
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          My interest in BioTech stems from a deep commitment to utilizing
+          cutting-edge data analytics and machine learning to drive innovations
+          in biomarker discovery and genetic research.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 'Proficient in Python, R, and Bash scripting'
+          - Experience using Bioconductor and BLAST
+          - Extensive experience using NCBI database
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
           altText: Pricing plan 2
@@ -80,15 +80,16 @@ sections:
       - title: PDF available
         price: Sustainable Finance
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Deeply committed to promoting sustainable finance through advanced
+          data analytics, as evidenced by my creation of the Sustainable Finance
+          Compliance and Monitoring System.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Experience using Bloomberg Terminal and Alpha Vantage API
+          - Experience modelling ESG risk on stock price
+          - >-
+            Awarded a national award for sustainable finance modelling on an
+            international platform
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
