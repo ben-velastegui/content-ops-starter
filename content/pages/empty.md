@@ -69,7 +69,7 @@ sections:
             borderColor: border-neutralAlt
             borderWidth: 2
             borderRadius: x-small
-            flexDirection: col-reverse
+            flexDirection: row-reverse
             justifyContent: center
             borderStyle: dotted
     actions: []
