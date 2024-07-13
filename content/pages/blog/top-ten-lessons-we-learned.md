@@ -8,7 +8,7 @@ excerpt: >-
   data-driven solution designed to detect and prevent greenwashing in
   sustainable finance using advanced machine learning techniques.
 featuredImage:
-  url: /images/geio-tischler-7hww7t6NLcg-unsplash.jpg
+  url: /images/cf05df82-a4a3-43e7-9c69-2fd991188de1.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
