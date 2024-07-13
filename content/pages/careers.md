@@ -131,35 +131,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic Section With A Form
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Section with a form subtitle
-    text: >+
-      \<div style="text-align: center">Aenean eros ipsum, interdum quis
-      dignissim non, sollicitudin vitae nisl.
-
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at
-      risus.\</div>
-
-    actions: []
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
