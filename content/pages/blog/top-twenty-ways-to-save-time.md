@@ -1,7 +1,7 @@
 ---
 title: Prostate Cancer Classification Model
 slug: top-twenty-ways-to-save-time
-date: '0002-09-11'
+date: '2024-09-11'
 excerpt: >-
   An iOS app with integrated VR capabilities to generate marketing audits,
   suggest marketing campaigns, and visualises campaigns in a VR environment.
