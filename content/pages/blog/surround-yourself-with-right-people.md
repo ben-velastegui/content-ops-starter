@@ -23,6 +23,8 @@ author: content/data/person1.json
 styles:
   self:
     flexDirection: col
+    padding:
+      - pb-2
 isFeatured: false
 ---
 #### Overview
