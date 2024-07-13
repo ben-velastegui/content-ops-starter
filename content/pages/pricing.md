@@ -90,7 +90,6 @@ sections:
           - >-
             Awarded a national award for sustainable finance modelling on an
             international platform
-          - Feature five
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
