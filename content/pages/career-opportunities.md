@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/andrew-neel-cckf4TsHAuw-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
