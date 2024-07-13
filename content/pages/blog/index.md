@@ -30,7 +30,7 @@ topSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Recent projects
       color: text-dark
       styles:
         self:
