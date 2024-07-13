@@ -3,8 +3,9 @@ title: Prostate Cancer Classification Model
 slug: top-twenty-ways-to-save-time
 date: '2024-09-11'
 excerpt: >-
-  An iOS app with integrated VR capabilities to generate marketing audits,
-  suggest marketing campaigns, and visualises campaigns in a VR environment.
+  Developed a hierarchical classification model for prostate cancer, integrated
+  into a novel R package for streamlined biomarker discovery and classification
+  based on Gleason scores.
 featuredImage:
   url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.JPG
   altText: Thumbnail
