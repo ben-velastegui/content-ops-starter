@@ -61,13 +61,6 @@ sections:
           - pt-1
           - pb-16
     subtitle: ''
-    title:
-      type: TitleBlock
-      text: Recent Projects
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
 slug: /Projects
 isDraft: false
 seo:
