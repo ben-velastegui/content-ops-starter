@@ -63,5 +63,5 @@ bottomSections:
     hoverEffect: move-up
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
 ---
