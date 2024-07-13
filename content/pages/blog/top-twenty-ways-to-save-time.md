@@ -98,10 +98,6 @@ bottomSections:
         textAlign: center
 author: content/data/person2.json
 ---
-Prostate Cancer Classification Model
-
-SEPTEMBER 11, 2024|MASTER'S THESIS
-
 Prostate Cancer Biomarker Discovery Using Genetic Algorithms and Machine Learning
 
 Project Overview: This project replicates and enhances the study "A Hierarchical Machine Learning Model to Discover Gleason Grade-Specific Biomarkers in Prostate Cancer" by Hamzeh et al., 2019. The original study utilized Naïve Bayes and SVM classifiers for identifying potential genetic biomarkers linked to Gleason scores. My approach introduces genetic algorithms for feature selection to improve the model's predictive power and robustness.
