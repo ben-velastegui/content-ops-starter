@@ -91,7 +91,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
     padding:
       - pt-0
       - pb-0
