@@ -26,7 +26,7 @@ styles:
     flexDirection: row
 type: PostLayout
 author: content/data/person1.json
-isDraft: false
+isDraft: true
 ---
 ### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
