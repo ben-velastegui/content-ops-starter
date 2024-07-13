@@ -116,6 +116,7 @@ sections:
           - pt-8
           - pb-8
         flexDirection: row
+        alignItems: flex-start
       subtitle:
         textAlign: center
       text:
