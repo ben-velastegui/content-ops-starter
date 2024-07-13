@@ -70,7 +70,7 @@ sections:
             borderWidth: 2
             borderRadius: x-small
             flexDirection: row-reverse
-            justifyContent: center
+            justifyContent: flex-start
             borderStyle: dotted
     actions: []
     elementId: ''
