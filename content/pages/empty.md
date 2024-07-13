@@ -121,6 +121,13 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         altText: Rangle logo
         elementId: ''
     elementId: ''
