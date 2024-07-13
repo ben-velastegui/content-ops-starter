@@ -64,8 +64,4 @@ bottomSections:
     styles:
       self:
         justifyContent: flex-start
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
 ---
