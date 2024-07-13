@@ -84,10 +84,10 @@ sections:
               - pb-9
               - pr-9
             margin:
-              - mt-96
-              - ml-96
-              - mb-96
-              - mr-96
+              - mt-4
+              - ml-4
+              - mb-4
+              - mr-4
       - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
