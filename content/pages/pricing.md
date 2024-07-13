@@ -59,7 +59,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Download
             url: /
             icon: arrowRight
             iconPosition: right
