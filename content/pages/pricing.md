@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: BioTech
+      - title: PDF available
         price: BioTech
         details: per month
         description: >-
