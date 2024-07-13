@@ -109,7 +109,7 @@ sections:
               - mb-0
               - mr-0
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/4.jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
