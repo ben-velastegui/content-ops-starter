@@ -41,7 +41,7 @@ topSections:
         subtitle: MASTER'S THESIS
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
