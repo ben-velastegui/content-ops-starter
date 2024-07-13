@@ -24,9 +24,9 @@
         },
         {
             "type": "Link",
-            "label": "CV",
+            "label": "About Me",
             "altText": "",
-            "url": "/pricing",
+            "url": "/careers",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -35,9 +35,9 @@
         },
         {
             "type": "Link",
-            "label": "About Me",
+            "label": "CV",
             "altText": "",
-            "url": "/careers",
+            "url": "/pricing",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

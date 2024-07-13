@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+          url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
