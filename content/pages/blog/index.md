@@ -65,7 +65,7 @@ topSections:
         subtitle: FCA'S INNOVATION COMPETITION
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
