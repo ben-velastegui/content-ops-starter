@@ -63,7 +63,7 @@ sections:
           self:
             padding:
               - pt-6
-              - pl-3
+              - pl-0
               - pb-20
               - pr-3
             textAlign: left
