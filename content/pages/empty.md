@@ -48,7 +48,7 @@ sections:
       innovation, I strive to contribute to projects that harness data to
       improve decision-making and create meaningful change.
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
