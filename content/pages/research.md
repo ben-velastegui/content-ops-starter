@@ -21,7 +21,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: See Why
         altText: ''
         url: /pricing
         showIcon: false
