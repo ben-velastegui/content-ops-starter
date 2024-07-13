@@ -23,7 +23,7 @@ sections:
       - type: Link
         label: See My Experience
         altText: ''
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
