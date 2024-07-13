@@ -46,7 +46,7 @@ sections:
           harness data to improve decision-making and create meaningful change.
         image:
           type: ImageBlock
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
