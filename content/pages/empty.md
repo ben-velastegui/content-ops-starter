@@ -113,7 +113,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/5.jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
