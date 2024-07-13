@@ -79,10 +79,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
+              - pt-7
+              - pl-7
+              - pb-7
+              - pr-7
             margin:
               - mt-96
               - ml-96
