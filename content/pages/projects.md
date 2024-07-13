@@ -66,7 +66,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
 slug: /Projects
 isDraft: false
 seo:
