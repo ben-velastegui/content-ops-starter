@@ -92,6 +92,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    padding:
+      - pt-5
 ---
 ### Insight App
 
