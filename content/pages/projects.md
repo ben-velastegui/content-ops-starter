@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-1
-          - pb-2
+          - pb-6
     subtitle: ''
     title:
       type: TitleBlock
