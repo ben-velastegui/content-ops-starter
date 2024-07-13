@@ -8,10 +8,8 @@ sections:
       text: I'm actively looking for my next challenge!
       color: text-dark
     subtitle: Please reach out if interested.
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
     actions:
       - type: Button
         label: Get started
