@@ -76,6 +76,13 @@ sections:
         url: /images/1.png
         altText: Empathy logo
         elementId: ''
+        styles:
+          self:
+            padding:
+              - pt-1
+              - pl-1
+              - pb-1
+              - pr-1
       - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
