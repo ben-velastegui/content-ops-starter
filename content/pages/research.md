@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Research
+title: Research opportunities
 sections:
   - type: GenericSection
     title:
