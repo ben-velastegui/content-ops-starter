@@ -33,7 +33,7 @@ sections:
         textAlign: left
     subtitle: Presenting at the FCA's DIFoR conference
   - type: RecentPostsSection
-    recentCount: 4
+    recentCount: 3
     showThumbnail: true
     showExcerpt: true
     showDate: true
