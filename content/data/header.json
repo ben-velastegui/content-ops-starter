@@ -51,7 +51,7 @@
                 },
                 {
                     "label": "About us",
-                    "url": "/",
+                    "url": "/careers",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
