@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Sustainable Finance
+      - title: PDF available
         price: Sustainable Finance
         details: per month
         description: >-
