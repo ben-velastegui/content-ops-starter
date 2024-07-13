@@ -8,11 +8,8 @@ sections:
       text: I'm actively looking for my next challenge!
       color: text-dark
     subtitle: Please reach out for a collaboration.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
     actions: []
     media:
       type: FormBlock
