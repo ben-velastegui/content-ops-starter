@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Sustainable Finance Compliance & Monitoring System
 slug: surround-yourself-with-right-people
 date: '2024-07-05'
 excerpt: >-
