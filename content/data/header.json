@@ -15,7 +15,7 @@
             "type": "Link",
             "label": "Projects",
             "altText": "",
-            "url": "/blog",
+            "url": "/Projects",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
