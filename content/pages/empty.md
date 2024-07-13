@@ -55,6 +55,7 @@ sections:
         justifyContent: center
         padding:
           - pb-5
+          - pt-2
       subtitle:
         textAlign: left
   - type: DividerSection
