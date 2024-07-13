@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: An overview
     text: >
       I am a London-based data scientist with over 4 years of experience,
       holding a Master’s degree in Data Science & Analytics from Brunel
