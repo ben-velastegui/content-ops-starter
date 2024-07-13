@@ -115,6 +115,7 @@ sections:
         padding:
           - pt-8
           - pb-8
+        flexDirection: row
       subtitle:
         textAlign: center
       text:
