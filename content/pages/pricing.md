@@ -14,9 +14,10 @@ sections:
       - title: PDF available
         price: HealthTech
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Passionate about leveraging data science to advance healthcare
+          solutions, as demonstrated by my work in developing a hierarchical
+          classification model for prostate cancer.
         features:
           - Feature one
           - Feature two
