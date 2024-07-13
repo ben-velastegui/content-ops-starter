@@ -86,7 +86,7 @@ sections:
           Compliance and Monitoring System.
         features:
           - Experience using Bloomberg Terminal and Alpha Vantage API
-          - Feature two
+          - Experience modelling ESG risk on stock price
           - Feature three
           - Feature four
           - Feature five
