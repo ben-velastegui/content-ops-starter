@@ -3,13 +3,6 @@ type: PageLayout
 title: About Me
 sections:
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Items on sale
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
