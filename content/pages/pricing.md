@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: CV
 slug: pricing
 sections:
   - title:
