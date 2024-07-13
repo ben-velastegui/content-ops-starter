@@ -52,7 +52,7 @@ sections:
           cutting-edge data analytics and machine learning to drive innovations
           in biomarker discovery and genetic research.
         features:
-          - Feature one
+          - 'Proficient in Python, R, and Bash'
           - Feature two
           - Feature three
           - Feature four
