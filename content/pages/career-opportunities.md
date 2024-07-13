@@ -12,7 +12,7 @@ sections:
       Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
     actions:
       - type: Button
-        label: Get started
+        label: Call now
         altText: ''
         url: /
         showIcon: false
