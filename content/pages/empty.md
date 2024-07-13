@@ -73,7 +73,7 @@ sections:
     subtitle: Previous Employers
     images:
       - type: ImageBlock
-        url: /images/1.png
+        url: /images/1.jpg
         altText: Empathy logo
         elementId: ''
         styles:
