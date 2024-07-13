@@ -1,13 +1,12 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: '''Insight'' App & VR'
 slug: top-twenty-ways-to-save-time
-date: '2023-03-25'
+date: '2024-07-12'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  An iOS app with integrated VR capabilities to generate marketing audits,
+  suggest marketing campaigns, and visualises campaigns in a VR environment.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -26,9 +25,32 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+### Insight App
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+**Project Overview:** Developed the Insight iOS application using Swift, integrating Firebase for authentication and data storage. The app is designed to provide customized marketing audits and campaign suggestions through a REST API. Currently, I am working on incorporating VR capabilities using Unity to enhance user experience and provide immersive marketing insights.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+**Key Features:**
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+*   **Custom Marketing Audits:** The app offers personalized marketing audits to help businesses optimize their marketing strategies.
+
+*   **Campaign Suggestions:** Utilizes data analytics to provide targeted campaign suggestions, enhancing marketing effectiveness.
+
+*   **Budgeting Tool:** Implements regression analysis for ROI predictions and clustering for audience segmentation.
+
+*   **Innovation Workshops:** Provides workshops to help users understand and leverage the app’s features for their marketing needs.
+
+*   **VR Capabilities:** In development, using Unity to provide immersive marketing insights and enhanced user experience.
+
+**Technologies Used:**
+
+*   **Swift:** For iOS app development.
+
+*   **Firebase:** For user authentication and data storage.
+
+*   **REST API:** For delivering customized marketing audits and campaign suggestions.
+
+*   **Unity:** Currently being integrated for VR capabilities.
+
+*   **APEX:** Demonstrated proficiency in low-code platforms for rapid prototyping.
+
+**Impact:** The Insight app empowers businesses to make data-driven marketing decisions, improving the effectiveness of their campaigns and optimizing their marketing budgets. By integrating advanced analytics and user-friendly features, the app supports businesses in achieving better marketing outcomes. The upcoming VR capabilities aim to take user experience to the next level, offering immersive and interactive marketing insights.
