@@ -64,18 +64,4 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-  - type: RecentPostsSection
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: two-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        justifyContent: center
 ---
