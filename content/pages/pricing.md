@@ -19,7 +19,7 @@ sections:
           solutions, as demonstrated by my work in developing a hierarchical
           classification model for prostate cancer.
         features:
-          - Feature one
+          - Proficient in R & other statistical modelling languages
           - Feature two
           - Feature three
           - Feature four
