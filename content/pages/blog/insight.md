@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: '''Insight'' App & VR'
-date: '2024-07-12'
+date: '2024-07-13'
 author: content/data/person4.json
 excerpt: >-
   An iOS app with integrated VR capabilities to generate marketing audits,
@@ -91,7 +91,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
     padding:
       - pt-0
       - pb-0

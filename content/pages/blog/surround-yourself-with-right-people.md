@@ -1,5 +1,5 @@
 ---
-title: Sustainable Finance Compliance Monitoring System
+title: Sustainable Finance Compliance & Monitoring System
 slug: surround-yourself-with-right-people
 date: '2024-07-05'
 excerpt: >-
@@ -22,7 +22,7 @@ type: PostLayout
 author: content/data/person1.json
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
     padding:
       - pb-6
       - pt-6
