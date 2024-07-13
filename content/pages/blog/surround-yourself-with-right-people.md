@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/geio-tischler-7hww7t6NLcg-unsplash.jpg
+  url: /images/geio-tischler-7hww7t6NLcg-unsplash 2.jpg
   styles:
     self:
       borderRadius: medium
