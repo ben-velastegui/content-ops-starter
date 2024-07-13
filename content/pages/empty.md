@@ -15,16 +15,46 @@ sections:
       I am a London-based data scientist with over 4 years of experience,
       holding a Master’s degree in Data Science & Analytics from Brunel
       University and a Bachelor's degree in Marketing from Richmond American
-      University. My expertise spans various domains including bioinformatics,
-      ESG analytics, climate science, and financial markets.
+      University. My expertise spans various domains including:
+
+
+      *   bioinformatics
+
+
+      *   ESG analytics
+
+
+      *   climate science
+
+
+      *   financial markets.
 
 
       In my professional journey, I have developed advanced machine learning
       models, such as hierarchical classification for prostate cancer and ESG
       risk impact assessments, integrating sophisticated algorithms to derive
-      actionable insights. My proficiency in R, Python, and MySQL, combined with
-      data visualization tools like Tableau and Power BI, empowers me to
-      transform complex data into clear, impactful narratives.
+      actionable insights. My proficiency in
+
+
+      *   R,
+
+
+      *   Python, and
+
+
+      *   MySQL,
+
+
+      combined with data visualization tools like 
+
+
+      *   Tableau and 
+
+
+      *   Power BI, 
+
+
+      empowers me to transform complex data into clear, impactful narratives.
 
 
       I have worked as an Associate Consultant at Montash, recruiting top talent
@@ -43,10 +73,10 @@ sections:
       Insight iOS app.
 
 
-      I am dedicated to using technology to tackle real-world problems and drive
-      sustainable impact. With a strong commitment to continuous learning and
-      innovation, I strive to contribute to projects that harness data to
-      improve decision-making and create meaningful change.
+      **I am dedicated to using technology to tackle real-world problems and
+      drive sustainable impact. With a strong commitment to continuous learning
+      and innovation, I strive to contribute to projects that harness data to
+      improve decision-making and create meaningful change.**
     actions: []
     colors: bg-light-fg-dark
     styles:
