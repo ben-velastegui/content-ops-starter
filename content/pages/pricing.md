@@ -12,7 +12,7 @@ sections:
     subtitle: Please choose according to the industry
     plans:
       - title: HealthTech
-        price: HealthT
+        price: HealthTech
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
