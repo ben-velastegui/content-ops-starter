@@ -22,7 +22,7 @@ type: PostLayout
 author: content/data/person1.json
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
     padding:
       - pb-6
       - pt-6
