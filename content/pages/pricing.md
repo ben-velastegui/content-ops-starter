@@ -28,7 +28,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
+            url: >-
+              https://drive.google.com/file/d/17NgZ6zeza7NobHeFL1LjVjyDBFsUYSym/view
             icon: arrowRight
             iconPosition: right
             style: secondary
