@@ -157,6 +157,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: Associate Consultant
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
