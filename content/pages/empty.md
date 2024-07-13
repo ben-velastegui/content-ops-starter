@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: About Me
         subtitle: $ 88 – $ 176
         text: >
           I am a London-based data scientist with over 4 years of experience,
