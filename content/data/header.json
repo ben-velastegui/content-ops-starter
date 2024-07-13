@@ -57,7 +57,7 @@
         },
         {
             "label": "Research collaboration",
-            "url": "/",
+            "url": "/Research",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
