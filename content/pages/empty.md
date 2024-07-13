@@ -54,7 +54,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pb-2
+          - pb-5
       subtitle:
         textAlign: left
   - type: DividerSection
