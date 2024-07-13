@@ -55,7 +55,6 @@ sections:
           - 'Proficient in Python, R, and Bash scripting'
           - Experience using Bioconductor and BLAST
           - Extensive expereice using NCBI database
-          - Feature four
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
           altText: Pricing plan 2
