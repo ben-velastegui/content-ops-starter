@@ -20,6 +20,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /pricing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: Research opportunities
