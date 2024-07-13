@@ -88,7 +88,7 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
