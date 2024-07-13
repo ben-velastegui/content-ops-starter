@@ -38,7 +38,7 @@ topSections:
     items:
       - type: FeaturedItem
         title: Prostate Cancer Classification Model
-        subtitle: $ 88 – $ 176
+        subtitle: MASTER'S THESIS
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
