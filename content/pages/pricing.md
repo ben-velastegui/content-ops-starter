@@ -20,7 +20,7 @@ sections:
           classification model for prostate cancer.
         features:
           - Proficient in R & other statistical modelling languages
-          - Feature two
+          - Confident using a wide variety of machine learning techniques
           - Feature three
           - Feature four
         image:
