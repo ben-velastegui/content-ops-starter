@@ -58,7 +58,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "CV",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
