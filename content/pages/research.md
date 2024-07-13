@@ -36,7 +36,7 @@ sections:
     colors: bg-light-fg-dark
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/thisisengineering-8yS04veb1TQ-unsplash.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
