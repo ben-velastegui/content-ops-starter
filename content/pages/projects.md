@@ -4,7 +4,7 @@ title: Projects
 sections:
   - type: RecentPostsSection
     recentCount: 6
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
