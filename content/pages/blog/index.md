@@ -75,7 +75,7 @@ topSections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: '''Insight'' App & VR'
-        subtitle: $117
+        subtitle: FKA SMALL MORE MARKETING
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
