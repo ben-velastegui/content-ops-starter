@@ -119,7 +119,7 @@ sections:
         alignItems: flex-start
         justifyContent: flex-start
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: left
   - type: DividerSection
