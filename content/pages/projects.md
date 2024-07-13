@@ -47,6 +47,10 @@ sections:
       self:
         justifyContent: flex-start
     subtitle: ''
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
 slug: /Projects
 isDraft: false
 seo:
