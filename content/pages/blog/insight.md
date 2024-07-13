@@ -94,6 +94,7 @@ styles:
     flexDirection: col
     padding:
       - pt-6
+      - pb-6
 ---
 ### Insight App
 
