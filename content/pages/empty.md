@@ -65,7 +65,7 @@ sections:
               - pt-6
               - pl-3
               - pb-20
-              - pr-6
+              - pr-3
             textAlign: left
             borderColor: border-neutralAlt
             borderWidth: 2
