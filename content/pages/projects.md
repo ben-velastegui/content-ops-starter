@@ -10,8 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
