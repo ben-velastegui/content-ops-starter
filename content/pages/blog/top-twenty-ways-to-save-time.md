@@ -22,7 +22,7 @@ colors: bg-light-fg-dark
 type: PostLayout
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
     padding:
       - pt-6
       - pb-0
