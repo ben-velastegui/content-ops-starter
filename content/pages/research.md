@@ -10,7 +10,16 @@ sections:
     subtitle: Please reach out for a collaboration.
     text: |
       Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'mailto:Benjamin.s.v.lopez@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: Research opportunities
