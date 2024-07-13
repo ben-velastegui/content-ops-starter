@@ -14,21 +14,22 @@ sections:
       - title: PDF available
         price: HealthTech
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Passionate about leveraging data science to advance healthcare
+          solutions, as demonstrated by my work in developing a hierarchical
+          classification model for prostate cancer.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Proficient in R & other statistical modelling languages
+          - Confident using a wide variety of machine learning techniques
+          - Interested in helping improve patient outcomes
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: >-
+              https://drive.google.com/file/d/17NgZ6zeza7NobHeFL1LjVjyDBFsUYSym/view
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -60,7 +61,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1-Ji1Y6LgzYl-aMQf1_vb-ohg7FBsyH1L/view?usp=share_link
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -93,7 +95,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1wpSbSCFDmWXiK3nJ7xdsCBvnZLo0L8jk/view?usp=share_link
             icon: arrowRight
             iconPosition: right
             style: secondary
