@@ -5,7 +5,7 @@ sections:
   - type: RecentPostsSection
     recentCount: 6
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
