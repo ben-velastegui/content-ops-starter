@@ -106,7 +106,7 @@ topSections:
         padding:
           - pt-5
           - pl-8
-          - pb-5
+          - pb-1
           - pr-8
         justifyContent: flex-start
       subtitle:
