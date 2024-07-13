@@ -95,6 +95,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+author: content/data/person2.json
 ---
 ###
 
