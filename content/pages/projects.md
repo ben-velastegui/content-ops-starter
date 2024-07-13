@@ -51,7 +51,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: small-list
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
