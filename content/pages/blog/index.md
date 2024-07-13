@@ -72,6 +72,7 @@ topSections:
             flexDirection: col
             justifyContent: center
         tagline: ''
+        elementId: /surround-yourself-with-right-people
       - type: FeaturedItem
         title: Sustainable Finance Compliance Monitoring System
         subtitle: FCA'S INNOVATION COMPETITION
