@@ -59,7 +59,7 @@
                 },
                 {
                     "label": "CV",
-                    "url": "/",
+                    "url": "/pricing",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
