@@ -56,7 +56,6 @@ sections:
                 - pl-0
                 - pb-0
                 - pr-0
-          url: /images/2330859 1.jpg
         actions: []
         colors: bg-light-fg-dark
         styles:
