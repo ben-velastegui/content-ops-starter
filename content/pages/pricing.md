@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Sustainable Finance
-        price: Custom
+        price: Sustainable Finance
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
