@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Award Winning Data Science
@@ -27,6 +27,17 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 styles:
   title:
     textAlign: center
@@ -39,17 +50,4 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---

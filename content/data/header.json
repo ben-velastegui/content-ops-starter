@@ -49,7 +49,7 @@
         {
             "label": "Career opportunities",
             "altText": "Sign up",
-            "url": "/",
+            "url": "/career opportunities",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

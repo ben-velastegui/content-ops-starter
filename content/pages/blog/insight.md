@@ -1,34 +1,18 @@
 ---
-title: Prostate Cancer Classification Model
-slug: top-twenty-ways-to-save-time
-date: '2024-09-11'
+type: PostLayout
+title: '''Insight'' App & VR'
+date: '2024-07-12'
+author: content/data/person4.json
 excerpt: >-
   An iOS app with integrated VR capabilities to generate marketing audits,
   suggest marketing campaigns, and visualises campaigns in a VR environment.
 featuredImage:
-  url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.JPG
-  altText: Thumbnail
   type: ImageBlock
+  url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
+  altText: Thumbnail
   styles:
     self:
       borderRadius: medium
-seo:
-  metaTitle: Top 20 Ways to Save Time at Work This Year
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
-  type: Seo
-colors: bg-light-fg-dark
-type: PostLayout
-author: content/data/person4.json
-styles:
-  self:
-    flexDirection: col
-    padding:
-      - pt-6
-      - pb-0
-      - pl-0
-      - pr-0
-isFeatured: false
 bottomSections:
   - type: CarouselSection
     items:
@@ -96,6 +80,23 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+slug: /Insight
+isFeatured: false
+seo:
+  type: Seo
+  metaTitle: Top 20 Ways to Save Time at Work This Year
+  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  socialImage: /images/abstract-feature2.svg
+  metaTags: []
+colors: bg-light-fg-dark
+styles:
+  self:
+    flexDirection: col
+    padding:
+      - pt-0
+      - pb-0
+      - pl-0
+      - pr-0
 ---
 ### Insight App
 
