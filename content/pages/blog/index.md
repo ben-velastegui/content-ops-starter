@@ -40,7 +40,7 @@ seo:
 type: PostFeedLayout
 bottomSections:
   - type: RecentPostsSection
-    recentCount: 3
+    recentCount: 6
     showThumbnail: true
     showExcerpt: true
     showDate: true
