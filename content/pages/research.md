@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: I'm actively looking for my next challenge!
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
