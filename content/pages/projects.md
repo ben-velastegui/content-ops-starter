@@ -57,6 +57,8 @@ sections:
     styles:
       self:
         justifyContent: flex-start
+        padding:
+          - pt-1
     subtitle: ''
     title:
       type: TitleBlock
