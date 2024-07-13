@@ -113,7 +113,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-4
+          - pt-6
       subtitle:
         textAlign: center
     type: PricingSection
