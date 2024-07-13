@@ -67,7 +67,7 @@
         },
         {
             "type": "Link",
-            "label": "About ME",
+            "label": "About Me",
             "altText": "",
             "url": "/careers",
             "showIcon": false,
