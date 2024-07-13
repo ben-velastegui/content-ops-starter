@@ -103,6 +103,11 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
       - type: ImageBlock
         url: /images/telus-logo.svg
         altText: Telus logo
