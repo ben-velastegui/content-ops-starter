@@ -10,7 +10,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
