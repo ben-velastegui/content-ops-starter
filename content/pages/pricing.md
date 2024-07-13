@@ -3,17 +3,17 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Download my CV
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Please choose according to the industry
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: PDF available
+        price: HealthTech
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -23,11 +23,11 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Download
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,9 +43,9 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+      - title: PDF available
+        price: BioTech
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -55,11 +55,11 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/cdc-w9KEokhajKw-unsplash.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Download
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,9 +75,9 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
+      - title: PDF available
+        price: Sustainable Finance
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
@@ -88,11 +88,11 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Download
             url: /
             icon: arrowRight
             iconPosition: right
@@ -112,6 +112,9 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-6
+          - pb-6
       subtitle:
         textAlign: center
     type: PricingSection
