@@ -93,10 +93,10 @@ styles:
   self:
     flexDirection: col
     padding:
-      - pt-1
-      - pb-1
-      - pl-1
-      - pr-1
+      - pt-0
+      - pb-0
+      - pl-0
+      - pr-0
 ---
 ### Insight App
 
