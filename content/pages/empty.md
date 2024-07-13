@@ -64,7 +64,7 @@ sections:
             padding:
               - pt-6
               - pl-0
-              - pb-36
+              - pb-64
               - pr-0
             textAlign: left
             borderColor: border-neutralAlt
