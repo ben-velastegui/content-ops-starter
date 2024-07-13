@@ -3,7 +3,7 @@ type: PageLayout
 title: Projects
 sections:
   - type: RecentPostsSection
-    recentCount: 3
+    recentCount: 4
     showThumbnail: true
     showExcerpt: true
     showDate: true
