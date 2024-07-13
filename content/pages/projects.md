@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
