@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: BioTech
-        price: $99
+        price: BioTech
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
