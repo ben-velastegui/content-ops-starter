@@ -24,7 +24,7 @@ styles:
   self:
     flexDirection: col
     padding:
-      - pt-60
+      - pt-6
       - pb-60
       - pl-60
       - pr-60
