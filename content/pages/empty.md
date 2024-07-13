@@ -139,7 +139,7 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-16
+          - pt-2
           - pl-16
           - pb-16
           - pr-16
