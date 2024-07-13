@@ -114,6 +114,7 @@ sections:
         justifyContent: center
         padding:
           - pt-6
+          - pb-6
       subtitle:
         textAlign: center
     type: PricingSection
