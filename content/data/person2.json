@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Developed a hierarchical classification model for prostate cancer, integrated into a novel R package for streamlined biomarker discovery and classification based on Gleason scores.\n"
 }
