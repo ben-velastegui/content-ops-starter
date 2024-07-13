@@ -25,6 +25,7 @@ styles:
     flexDirection: col
     padding:
       - pt-28
+      - pb-24
 isFeatured: false
 bottomSections:
   - type: CarouselSection
