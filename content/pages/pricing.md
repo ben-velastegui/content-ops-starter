@@ -80,9 +80,10 @@ sections:
       - title: PDF available
         price: Sustainable Finance
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Deeply committed to promoting sustainable finance through advanced
+          data analytics, as evidenced by my creation of the Sustainable Finance
+          Compliance and Monitoring System.
         features:
           - Feature one
           - Feature two
