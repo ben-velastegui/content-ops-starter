@@ -97,32 +97,5 @@ bottomSections:
       subtitle:
         textAlign: center
 ---
-### Insight App
+###
 
-**Project Overview:** Developed the Insight iOS application using Swift, integrating Firebase for authentication and data storage. The app is designed to provide customized marketing audits and campaign suggestions through a REST API. Currently, I am working on incorporating VR capabilities using Unity to enhance user experience and provide immersive marketing insights.
-
-**Key Features:**
-
-*   **Custom Marketing Audits:** The app offers personalized marketing audits to help businesses optimize their marketing strategies.
-
-*   **Campaign Suggestions:** Utilizes data analytics to provide targeted campaign suggestions, enhancing marketing effectiveness.
-
-*   **Budgeting Tool:** Implements regression analysis for ROI predictions and clustering for audience segmentation.
-
-*   **Innovation Workshops:** Provides workshops to help users understand and leverage the app’s features for their marketing needs.
-
-*   **VR Capabilities:** In development, using Unity to provide immersive marketing insights and enhanced user experience.
-
-**Technologies Used:**
-
-*   **Swift:** For iOS app development.
-
-*   **Firebase:** For user authentication and data storage.
-
-*   **REST API:** For delivering customized marketing audits and campaign suggestions.
-
-*   **Unity:** Currently being integrated for VR capabilities.
-
-*   **APEX:** Demonstrated proficiency in low-code platforms for rapid prototyping.
-
-**Impact:** The Insight app empowers businesses to make data-driven marketing decisions, improving the effectiveness of their campaigns and optimizing their marketing budgets. By integrating advanced analytics and user-friendly features, the app supports businesses in achieving better marketing outcomes. The upcoming VR capabilities aim to take user experience to the next level, offering immersive and interactive marketing insights.
