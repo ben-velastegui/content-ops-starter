@@ -19,7 +19,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:Benjamin.s.v.lopez@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
