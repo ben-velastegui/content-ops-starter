@@ -24,7 +24,7 @@ topSections:
           - pb-0
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
   - type: DividerSection
