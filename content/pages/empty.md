@@ -79,10 +79,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-10
-              - pl-10
-              - pb-10
-              - pr-10
+              - pt-52
+              - pl-52
+              - pb-52
+              - pr-52
       - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
