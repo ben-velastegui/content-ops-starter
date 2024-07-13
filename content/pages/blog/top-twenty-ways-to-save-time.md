@@ -1,5 +1,5 @@
 ---
-title: ''
+title: PROSTA
 slug: top-twenty-ways-to-save-time
 date: '2024-09-11'
 excerpt: >-
