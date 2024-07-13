@@ -6,7 +6,7 @@ sections:
     recentCount: 4
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
