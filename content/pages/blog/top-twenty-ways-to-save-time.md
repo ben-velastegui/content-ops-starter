@@ -24,10 +24,10 @@ styles:
   self:
     flexDirection: col
     padding:
-      - pt-72
-      - pb-72
-      - pl-72
-      - pr-72
+      - pt-60
+      - pb-60
+      - pl-60
+      - pr-60
 isFeatured: false
 bottomSections:
   - type: CarouselSection
