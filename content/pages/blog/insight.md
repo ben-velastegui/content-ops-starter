@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ''
-date: '2024-07-12'
+date: ''
 author: content/data/person4.json
 excerpt: >-
   An iOS app with integrated VR capabilities to generate marketing audits,
