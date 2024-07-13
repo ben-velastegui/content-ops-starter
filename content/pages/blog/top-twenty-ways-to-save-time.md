@@ -25,7 +25,7 @@ styles:
     flexDirection: col
     padding:
       - pt-6
-      - pb-0
+      - pb-6
       - pl-0
       - pr-0
 isFeatured: false
