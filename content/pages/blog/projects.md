@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Award Winning Data Science
+title: ''
 date: '2024-07-05'
 author: content/data/person1.json
 excerpt: >-
