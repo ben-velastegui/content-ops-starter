@@ -47,7 +47,16 @@ topSections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: /surround-yourself-with-right-people
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
