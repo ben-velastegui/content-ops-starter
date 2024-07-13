@@ -12,38 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Projects",
-                    "url": "/blog",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "About us",
-                    "url": "/careers",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "CV",
-                    "url": "/pricing",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Link",
             "label": "Projects",
             "altText": "",
