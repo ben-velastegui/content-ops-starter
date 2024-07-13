@@ -3,7 +3,7 @@ type: PageLayout
 title: About Me
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Previous Employers
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
