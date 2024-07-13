@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Please choose according to the industry
     plans:
-      - title: HealthTech
+      - title: PDF available
         price: HealthTech
         details: No credit card required
         description: >-
