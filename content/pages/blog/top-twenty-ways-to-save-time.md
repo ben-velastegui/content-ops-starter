@@ -1,5 +1,5 @@
 ---
-title: PROSTA
+title: Prostate Cancer Classification System
 slug: top-twenty-ways-to-save-time
 date: ''
 excerpt: >-
