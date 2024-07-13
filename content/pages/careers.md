@@ -136,6 +136,9 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Section with a form subtitle
     text: >+
       \<div style="text-align: center">Aenean eros ipsum, interdum quis
