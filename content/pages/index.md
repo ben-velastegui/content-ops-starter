@@ -115,7 +115,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-        flexDirection: row
+        flexDirection: col
         alignItems: flex-start
         justifyContent: flex-start
       subtitle:
