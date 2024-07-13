@@ -78,7 +78,7 @@ topSections:
         subtitle: FKA SMALL MORE MARKETING
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
