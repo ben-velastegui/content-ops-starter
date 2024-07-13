@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: I'm actively looking for my next challenge!
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Please reach out for a collaboration.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
