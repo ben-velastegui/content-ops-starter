@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: See My Experience
         altText: ''
         url: /
         showIcon: true
