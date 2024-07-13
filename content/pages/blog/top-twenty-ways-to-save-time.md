@@ -6,7 +6,7 @@ excerpt: >-
   An iOS app with integrated VR capabilities to generate marketing audits,
   suggest marketing campaigns, and visualises campaigns in a VR environment.
 featuredImage:
-  url: /images/balazs-ketyi-sScmok4Iq1o-unsplash.jpg
+  url: /images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
