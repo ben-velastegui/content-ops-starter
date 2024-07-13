@@ -87,7 +87,9 @@ sections:
         features:
           - Experience using Bloomberg Terminal and Alpha Vantage API
           - Experience modelling ESG risk on stock price
-          - Feature three
+          - >-
+            Awarded a national award for sustainable finance modelling on an
+            international platform
           - Feature four
           - Feature five
         image:
