@@ -11,7 +11,6 @@ topSections:
     subtitle: Emerging Technology and Data Innovation Competition
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
-      - content/pages/blog/surround-yourself-with-right-people.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
