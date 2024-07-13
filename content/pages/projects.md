@@ -15,7 +15,7 @@ sections:
     hoverEffect: move-up
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
 slug: /Projects
 isDraft: false
 seo:
