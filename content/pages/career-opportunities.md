@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: I'm actively looking for my next challenge!
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: Please reach out if interested.
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
