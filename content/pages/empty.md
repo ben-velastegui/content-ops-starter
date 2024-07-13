@@ -141,10 +141,10 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-2
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
