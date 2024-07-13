@@ -61,7 +61,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1-Ji1Y6LgzYl-aMQf1_vb-ohg7FBsyH1L/view?usp=share_link
             icon: arrowRight
             iconPosition: right
             style: secondary
