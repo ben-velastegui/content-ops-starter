@@ -29,6 +29,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: left
     subtitle: Presenting at the FCA's DIFoR conference
   - type: RecentPostsSection
     recentCount: 4
