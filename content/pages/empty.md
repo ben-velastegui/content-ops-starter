@@ -101,7 +101,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: static
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         margin:
