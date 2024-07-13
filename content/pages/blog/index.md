@@ -38,19 +38,5 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
-bottomSections:
-  - type: RecentPostsSection
-    recentCount: 6
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 ---
