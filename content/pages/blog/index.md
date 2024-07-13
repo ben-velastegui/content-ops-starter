@@ -62,7 +62,7 @@ topSections:
             justifyContent: center
       - type: FeaturedItem
         title: Sustainable Finance Compliance Monitoring System
-        subtitle: $ 44.99 – $ 90
+        subtitle: FCA'S INNOVATION COMPETITION
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
