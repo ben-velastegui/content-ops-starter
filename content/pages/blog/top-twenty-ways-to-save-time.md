@@ -23,6 +23,8 @@ author: content/data/person4.json
 styles:
   self:
     flexDirection: col
+    padding:
+      - pt-28
 isFeatured: false
 bottomSections:
   - type: CarouselSection
