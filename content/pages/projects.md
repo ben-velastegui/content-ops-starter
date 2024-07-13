@@ -64,6 +64,9 @@ sections:
       type: TitleBlock
       text: Recent Projects
       color: text-dark
+      styles:
+        self:
+          textAlign: center
 slug: /Projects
 isDraft: false
 seo:
