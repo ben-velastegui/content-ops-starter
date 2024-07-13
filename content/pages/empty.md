@@ -89,7 +89,7 @@ sections:
               - mb-0
               - mr-0
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/2.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
