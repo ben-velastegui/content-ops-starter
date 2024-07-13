@@ -134,7 +134,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Work Experience
       color: text-dark
       styles:
         self:
