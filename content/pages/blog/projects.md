@@ -50,7 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: this-is-a-blog-post-with-related-posts
+slug: /Projects
 isFeatured: false
 isDraft: false
 seo:
