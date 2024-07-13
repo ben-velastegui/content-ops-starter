@@ -4,8 +4,9 @@ title: Prostate Cancer Classification System
 date: '2024-09-11'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Developed a hierarchical classification model for prostate cancer, integrated
+  into a novel R package for streamlined biomarker discovery and classification
+  based on Gleason scores.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
