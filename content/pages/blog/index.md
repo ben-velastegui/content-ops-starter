@@ -49,7 +49,7 @@ topSections:
               borderRadius: medium
         actions:
           - type: Link
-            label: See Tutorials
+            label: Learn More
             altText: ''
             url: /surround-yourself-with-right-people
             showIcon: false
