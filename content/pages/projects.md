@@ -45,13 +45,13 @@ sections:
           - pr-3
   - type: RecentPostsSection
     recentCount: 4
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
     actions: []
     elementId: ''
-    variant: two-col-grid
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
@@ -59,15 +59,8 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-1
-          - pb-20
+          - pb-16
     subtitle: ''
-    title:
-      type: TitleBlock
-      text: Recent Projects
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
 slug: /Projects
 isDraft: false
 seo:
