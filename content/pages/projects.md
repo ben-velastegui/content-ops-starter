@@ -46,6 +46,7 @@ sections:
     styles:
       self:
         justifyContent: flex-start
+    subtitle: Recent Projects
 slug: /Projects
 isDraft: false
 seo:
