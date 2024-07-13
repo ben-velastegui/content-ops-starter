@@ -47,9 +47,10 @@ sections:
       - title: PDF available
         price: BioTech
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          My interest in BioTech stems from a deep commitment to utilizing
+          cutting-edge data analytics and machine learning to drive innovations
+          in biomarker discovery and genetic research.
         features:
           - Feature one
           - Feature two
