@@ -31,7 +31,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/andrew-neel-cckf4TsHAuw-unsplash.jpg
+      url: /images/copernico-p_kICQCOM4s-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
