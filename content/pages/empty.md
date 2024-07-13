@@ -127,9 +127,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: move-to-right
     colors: bg-light-fg-dark
