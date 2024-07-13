@@ -104,7 +104,7 @@ topSections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-5
           - pl-8
           - pb-8
           - pr-8
