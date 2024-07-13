@@ -22,7 +22,6 @@ sections:
           - Proficient in R & other statistical modelling languages
           - Confident using a wide variety of machine learning techniques
           - Interested in helping improve patient outcomes
-          - Feature four
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
           altText: Pricing plan 1
