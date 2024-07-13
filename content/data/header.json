@@ -67,7 +67,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "About ME",
             "altText": "",
             "url": "/careers",
             "showIcon": false,
