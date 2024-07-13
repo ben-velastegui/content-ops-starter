@@ -85,7 +85,7 @@ sections:
           data analytics, as evidenced by my creation of the Sustainable Finance
           Compliance and Monitoring System.
         features:
-          - Feature one
+          - Experience using Bloomberg Terminal and Alpha Vantage API
           - Feature two
           - Feature three
           - Feature four
