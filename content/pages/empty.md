@@ -86,6 +86,7 @@ sections:
         padding:
           - pb-5
           - pt-2
+          - pl-0
       subtitle:
         textAlign: left
   - type: DividerSection
