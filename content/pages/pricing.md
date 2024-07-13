@@ -95,7 +95,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Download
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1wpSbSCFDmWXiK3nJ7xdsCBvnZLo0L8jk/view?usp=share_link
             icon: arrowRight
             iconPosition: right
             style: secondary
