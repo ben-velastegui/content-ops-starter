@@ -14,7 +14,7 @@ sections:
       - type: Button
         label: Contact me now
         altText: ''
-        url: /
+        url: 'mailto:Benjamin.s.v.lopez@gmail.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
