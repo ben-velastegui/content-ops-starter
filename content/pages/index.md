@@ -101,7 +101,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: center
+          textAlign: left
     colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
