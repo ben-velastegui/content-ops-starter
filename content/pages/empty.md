@@ -87,6 +87,7 @@ sections:
           - pb-5
           - pt-2
           - pl-3
+          - pr-3
       subtitle:
         textAlign: left
   - type: DividerSection
