@@ -101,7 +101,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: left
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
