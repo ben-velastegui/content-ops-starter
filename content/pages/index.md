@@ -106,7 +106,7 @@ sections:
     styles:
       self:
         padding:
-          - pl-72
+          - pl-60
   - type: DividerSection
     title: Divider
     elementId: ''
