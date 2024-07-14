@@ -60,6 +60,7 @@ sections:
         padding:
           - pt-1
           - pb-16
+          - pl-4
     subtitle: ''
 slug: /Projects
 isDraft: false
