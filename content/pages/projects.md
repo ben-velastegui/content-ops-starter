@@ -60,7 +60,7 @@ sections:
         padding:
           - pt-1
           - pb-16
-    subtitle: My Projects
+    subtitle: ''
 slug: /Projects
 isDraft: false
 seo:
