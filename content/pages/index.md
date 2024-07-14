@@ -100,50 +100,6 @@ sections:
       label: KEY INSIGHTS OF A
       color: text-primary
     colors: bg-light-fg-dark
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Data Scientist
-      color: text-dark
-      styles:
-        self:
-          fontWeight: 400
-          textAlign: left
-    subtitle: Innovating with Machine Learning & Analytics
-    text: >
-      A London based data scientist. I hold a Master's degree in Data Science &
-      Analytics from Brunel University and a Bachelor's degree in Marketing from
-      Richmond American University. My work focuses on integrating machine
-      learning and data analytics to drive innovative business solutions.
-
-
-      I'm passionate about using tech to tackle real world problems. My
-      experience is in bioinformatics, ESG analytics, climate science, and the
-      financial markets.
-    actions: []
-    badge:
-      type: Badge
-      label: KEY INSIGHTS OF A
-      color: text-primary
-      styles:
-        self:
-          textAlign: left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mr-56
-          - ml-72
-        padding:
-          - pt-8
-          - pb-8
-        flexDirection: row
-        alignItems: flex-start
-        justifyContent: flex-start
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
