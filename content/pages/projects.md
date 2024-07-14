@@ -61,6 +61,7 @@ sections:
           - pt-1
           - pb-16
           - pl-4
+          - pr-3
     subtitle: ''
 slug: /Projects
 isDraft: false
