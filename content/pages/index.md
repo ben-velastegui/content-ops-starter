@@ -110,6 +110,8 @@ sections:
       self:
         padding:
           - pl-60
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
