@@ -85,7 +85,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: Innovating with Machine Learning & Analytics
     text: >
       A London based data scientist. I hold a Master's degree in Data Science &
