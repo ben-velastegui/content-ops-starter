@@ -113,7 +113,7 @@ sections:
           - pt-3
           - pb-3
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: center
   - type: DividerSection
