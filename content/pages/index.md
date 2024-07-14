@@ -85,8 +85,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 400
-          textAlign: left
+          textAlign: center
     subtitle: Innovating with Machine Learning & Analytics
     text: >
       A London based data scientist. I hold a Master's degree in Data Science &
@@ -105,23 +104,18 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: left
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
-        margin:
-          - mr-56
-          - ml-72
         padding:
-          - pt-8
-          - pb-8
-        flexDirection: row
-        alignItems: flex-start
-        justifyContent: flex-start
+          - pl-60
+          - pt-3
+          - pb-3
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
