@@ -30,6 +30,7 @@ styles:
     flexDirection: row
     padding:
       - pl-3
+      - pr-3
 ---
 ### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
