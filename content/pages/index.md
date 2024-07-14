@@ -99,6 +99,9 @@ sections:
       type: Badge
       label: KEY INSIGHTS OF A
       color: text-primary
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
