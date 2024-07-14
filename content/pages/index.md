@@ -109,7 +109,7 @@ sections:
     styles:
       self:
         padding:
-          - pl-2
+          - pl-5
           - pt-3
           - pb-3
       subtitle:
