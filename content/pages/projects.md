@@ -24,9 +24,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-6
           - pl-3
-          - pb-16
+          - pb-1
           - pr-3
         justifyContent: center
       subtitle:
@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-1
-          - pb-32
+          - pb-3
           - pl-3
           - pr-3
     subtitle: ''
