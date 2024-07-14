@@ -52,7 +52,7 @@ sections:
     actions: []
     elementId: ''
     variant: small-list
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
       self:
