@@ -120,6 +120,7 @@ sections:
           - pt-6
           - pb-6
           - pl-3
+          - pr-3
       subtitle:
         textAlign: center
     type: PricingSection
