@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-1
-          - pb-16
+          - pb-6
           - pl-3
           - pr-3
     subtitle: ''
