@@ -111,6 +111,7 @@ sections:
         padding:
           - pl-60
           - pt-3
+          - pb-3
       subtitle:
         textAlign: center
       text:
