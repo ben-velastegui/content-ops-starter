@@ -44,7 +44,7 @@ sections:
           - pb-3
           - pr-3
   - type: RecentPostsSection
-    recentCount: 20
+    recentCount: 4
     showThumbnail: false
     showExcerpt: true
     showDate: true
