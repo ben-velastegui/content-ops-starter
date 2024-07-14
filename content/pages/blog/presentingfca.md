@@ -28,6 +28,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    padding:
+      - pl-3
 ---
 ### Presentation at DiFoR Conference: Sustainable Finance Compliance and Monitoring System (SFCMS)
 
