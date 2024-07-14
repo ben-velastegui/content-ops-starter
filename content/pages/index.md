@@ -103,6 +103,10 @@ sections:
         self:
           textAlign: left
     colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pl-36
   - type: DividerSection
     title: Divider
     elementId: ''
