@@ -119,6 +119,7 @@ sections:
         padding:
           - pt-6
           - pb-6
+          - pl-3
       subtitle:
         textAlign: center
     type: PricingSection
