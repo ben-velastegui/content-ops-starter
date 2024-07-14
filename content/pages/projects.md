@@ -11,7 +11,6 @@ sections:
         self:
           textAlign: left
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/presentingfca.md
     showThumbnail: true
     showExcerpt: true
