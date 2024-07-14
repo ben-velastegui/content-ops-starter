@@ -115,7 +115,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
