@@ -96,7 +96,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Professional summary
       color: text-dark
       styles:
         self:
