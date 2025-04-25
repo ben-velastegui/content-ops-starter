@@ -32,6 +32,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: GitHub
       - label: Projects
         altText: ''
         url: /Projects
