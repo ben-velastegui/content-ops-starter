@@ -16,7 +16,7 @@
             "elementId": "LinkedIn"
         },
         {
-            "altText": "Email link",
+            "altText": "Email",
             "url": "mailto:Benjamin.s.v.lopez@gmail.com",
             "icon": "mail",
             "type": "Social"
