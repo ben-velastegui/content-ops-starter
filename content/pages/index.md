@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Turning data into decisions
+      text: Welcome to my portfolio
       color: text-dark
       type: TitleBlock
       styles:
