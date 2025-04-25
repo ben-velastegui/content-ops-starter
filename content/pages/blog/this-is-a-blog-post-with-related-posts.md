@@ -2,13 +2,10 @@
 type: PostLayout
 title: Prostate Cancer Classification
 date: '2024-09-11'
-author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/cdc-w9KEokhajKw-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:

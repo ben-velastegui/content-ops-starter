@@ -28,7 +28,7 @@ sections:
           - pl-3
           - pb-1
           - pr-3
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         textAlign: left
     subtitle: Presenting at the FCA's DIFoR conference
@@ -45,10 +45,10 @@ sections:
           - pr-3
   - type: RecentPostsSection
     recentCount: 4
-    showThumbnail: false
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
+    showThumbnail: true
+    showExcerpt: false
+    showDate: false
+    showAuthor: false
     actions: []
     elementId: ''
     variant: small-list
@@ -59,17 +59,14 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-1
-          - pb-3
+          - pb-6
           - pl-3
           - pr-3
     subtitle: ''
-slug: /Projects
+    title:
+      type: TitleBlock
+      text: Recent projects
+      color: text-dark
+slug: /Project overview
 isDraft: false
-seo:
-  type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
-  addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
-  metaTags: []
 ---

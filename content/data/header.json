@@ -15,7 +15,7 @@
             "type": "Link",
             "label": "Projects",
             "altText": "",
-            "url": "/Projects",
+            "url": "/Project overview",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -26,7 +26,7 @@
             "type": "Link",
             "label": "About Me",
             "altText": "",
-            "url": "/empty",
+            "url": "/About me",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -37,7 +37,7 @@
             "type": "Link",
             "label": "CV",
             "altText": "",
-            "url": "/pricing",
+            "url": "/CV",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -67,5 +67,5 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "Ben Lopez (BA., MSc.)"
+    "title": "Benjamin Velastegui Lopez"
 }

@@ -1,51 +1,11 @@
 {
-    "logo": {
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "",
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "mailto:Benjamin.s.v.lopez@gmail.com",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "text": "All rights reserved\n",
+    "socialLinks": [],
+    "legalLinks": [],
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Ben Lopez (BA., MSc.)",
+    "title": "",
     "styles": {
         "self": {
             "padding": [
