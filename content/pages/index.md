@@ -50,7 +50,7 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - ml-8
+          - ml-0
     media:
       type: ImageBlock
       url: /images/2330859 1.jpg
