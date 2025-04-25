@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: ''
     text: ''
     actions:
