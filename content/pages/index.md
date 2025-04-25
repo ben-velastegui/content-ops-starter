@@ -116,6 +116,7 @@ sections:
           - pt-3
           - pb-3
         alignItems: center
+        justifyContent: center
       subtitle:
         textAlign: left
       text:
