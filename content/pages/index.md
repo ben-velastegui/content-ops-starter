@@ -244,5 +244,6 @@ seo:
   metaDescription: Welcome to my portfolio
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
