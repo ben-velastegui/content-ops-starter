@@ -84,7 +84,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Data Science & Analytics
+      text: Data Scientist. Analyst. Problem Solver.
       color: text-dark
       styles:
         self:
