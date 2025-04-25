@@ -243,7 +243,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/1.png
         altText: Empathy logo
         elementId: ''
         styles:
