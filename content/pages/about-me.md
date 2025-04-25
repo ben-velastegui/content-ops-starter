@@ -131,10 +131,26 @@ sections:
       - type: FeaturedItem
         title: Domain
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   **Bioinformatics**: Developed predictive models for prostate
+          cancer classification
+
+
+          *   **ESG Analytics**: Designed models for ESG risk impact analysis
+          and sustainable investment insights
+
+
+          *   **Climate Science**: Analyzed climate-related data to support
+          environmentally driven projects
+
+
+          *   **Financial Markets**: Conducted data analysis for investment
+          planning and performance evaluation
+
+
+          *   **Marketing & Business Development**: Applied analytics to support
+          campaign performance and client growth strategies
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
