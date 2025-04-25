@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to my portfolio website!
+      text: Welcome to my portfolio website
       color: text-dark
       type: TitleBlock
       styles:
