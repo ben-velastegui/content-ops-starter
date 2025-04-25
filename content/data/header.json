@@ -38,7 +38,7 @@
             "label": "CV",
             "altText": "",
             "url": "/CV",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
