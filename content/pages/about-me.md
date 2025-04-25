@@ -132,17 +132,20 @@ sections:
         title: Domain
         subtitle: ''
         text: >+
-          *   **Bioinformatics at Brunel University**
+          *   **Bioinformatics** at Brunel University - Post graduate thesis:
+          "Gleason score biomarker discovery classification" based on
+          Evolutionary Algorithms, Cancer research
 
 
-          *   **ESG Analytics at Financial Conduct Authority**
+          *   **ESG Analytics** at Financial Conduct Authority - International
+          data innovation award winner
 
 
-          *   **Financial Markets at Santander, Virgin Money, and the** Bank
-          **of England**
+          *   **Financial Markets** at Santander, Virgin Money, and the Bank of
+          England
 
 
-          *   **Marketing analytics at Vertu Motors**
+          *   **Marketing analytics** at Vertu Motors
 
         image:
           type: ImageBlock
