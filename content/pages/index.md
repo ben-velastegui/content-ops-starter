@@ -58,7 +58,6 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: /images/2330859 1.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
