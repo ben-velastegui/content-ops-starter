@@ -28,7 +28,7 @@ sections:
           - pl-3
           - pb-1
           - pr-3
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         textAlign: left
     subtitle: Presenting at the FCA's DIFoR conference
