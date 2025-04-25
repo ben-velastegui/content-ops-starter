@@ -55,7 +55,7 @@ sections:
           - pr-8
         margin:
           - ml-0
-        justifyContent: flex-start
+        justifyContent: center
     media:
       type: ImageBlock
       altText: Image alt text placeholder
