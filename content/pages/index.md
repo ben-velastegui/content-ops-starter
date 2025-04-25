@@ -119,7 +119,7 @@ sections:
         justifyContent: center
         flexDirection: row
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
   - type: DividerSection
