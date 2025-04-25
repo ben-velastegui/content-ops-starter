@@ -107,23 +107,6 @@ sections:
         margin:
           - ml-0
         justifyContent: center
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-0
-            - ml-48
-            - mb-0
-            - mr-48
 seo:
   metaTitle: Home
   metaDescription: Welcome to my portfolio
