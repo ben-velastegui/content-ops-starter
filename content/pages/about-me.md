@@ -168,7 +168,7 @@ sections:
       - type: FeaturedItem
         title: Impact
         subtitle: ''
-        text: "*   Transformed complex datasets into actionable insights for decision-makers\n\n*   Created tools and dashboards that\_boosted employee efficiency\_and\_streamlined data workflows\n\n*   Led\_training sessions\_on data management and visualization, enhancing team capabilities\n\n*   Collaborated with stakeholders at organizations like\_Virgin Money,\_Montash,\_Reeves Independent, and the\_Bank of England\n\n*   Fluent in\_Spanish, with strong communication and leadership experience across cross-functional teams\n\n*   Committed to using technology for\_sustainable, real-world impact\_and\_continuous innovation\n\n"
+        text: "*   *   Boosted team productivity by\_15%\_through data training at Virgin Money*   Cut ACD failure rates by\_5%\_at Santander via root-cause analysis*   Reduced lead time by\_30%\_at Reeves Independent using CI/CD automation*   Improved ROI prediction accuracy by\_22%\_via regression in iOS app*   Promoted within 6 months for 3x increase in lead conversion targeting*   Built prostate cancer classifier with\_91%+ accuracy\_using hierarchical ML*   Automated national interest rate reporting at Bank of England, daily for global release*   Created ESG risk models adopted for compliance insights at FCA*   Launched iOS app with 50+ users, clustering for audience segmentation*   Delivered machine learning models in bioinformatics, finance & ESG domains\n\n"
         image:
           type: ImageBlock
           url: /images/icon3.svg
