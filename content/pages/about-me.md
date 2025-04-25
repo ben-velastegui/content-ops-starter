@@ -106,10 +106,7 @@ sections:
       - type: FeaturedItem
         title: Tech-stack
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   Proficient in\_Python,\_R, and\_MySQL\_for data analysis, modeling, and automation\n\n*   Experienced with\_data visualization tools\_such as\_Tableau\_and\_Power BI\n\n*   Built advanced machine & deep learning models\n\n*   Familiar with app development and prototyping (e.g.,\_Insight iOS app)\n\n"
         image:
           type: ImageBlock
           url: /images/icon1.svg
