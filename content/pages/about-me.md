@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         title: Tech-stack
         subtitle: ''
-        text: "*   Proficient in\_Python,\_R, and\_MySQL\_for data analysis, modeling, and automation\n\n*   Experienced with\_data visualization tools\_such as\_Tableau\_and\_Power BI\n\n*   Built advanced machine & deep learning models\n\n*   Familiar with app development and prototyping (e.g.,\_Insight iOS app)\n\n"
+        text: "*   *   Proficient in\_**Python**,\_**R**, and\_**MySQL**\_for data analysis, modeling, and automation*   Experienced with\_**data visualization tools**\_such as\_**Tableau**\_and\_**Power BI***   Built advanced machine and deep learning models*   Developed dashboards to monitor performance and enhance internal processes*   Familiar with app development and prototyping (e.g.,\_**Insight iOS app**)\n\n"
         image:
           type: ImageBlock
           url: /images/icon1.svg
