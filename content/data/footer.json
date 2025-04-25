@@ -42,7 +42,7 @@
         }
     ],
     "copyrightText": "",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Footer",
     "title": "My portfolio",
     "styles": {
