@@ -2,7 +2,6 @@
 type: PostLayout
 title: Prostate Cancer Classification
 date: '2024-09-11'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
