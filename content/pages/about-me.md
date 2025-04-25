@@ -168,10 +168,7 @@ sections:
       - type: FeaturedItem
         title: Impact
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   Transformed complex datasets into actionable insights for decision-makers\n\n*   Created tools and dashboards that\_boosted employee efficiency\_and\_streamlined data workflows\n\n*   Led\_training sessions\_on data management and visualization, enhancing team capabilities\n\n*   Collaborated with stakeholders at organizations like\_Virgin Money,\_Montash,\_Reeves Independent, and the\_Bank of England\n\n*   Fluent in\_Spanish, with strong communication and leadership experience across cross-functional teams\n\n*   Committed to using technology for\_sustainable, real-world impact\_and\_continuous innovation\n\n"
         image:
           type: ImageBlock
           url: /images/icon3.svg
