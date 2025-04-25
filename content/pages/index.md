@@ -22,6 +22,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: LinkedIn
       - type: Link
         altText: GitHub
         url: 'https://github.com/Ben-s-v-Lopez'
