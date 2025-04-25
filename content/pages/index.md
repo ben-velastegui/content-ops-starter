@@ -34,7 +34,7 @@ sections:
         padding:
           - pl-0
           - pt-14
-          - pb-3
+          - pb-14
         alignItems: center
         justifyContent: center
         flexDirection: row
