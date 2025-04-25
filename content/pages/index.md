@@ -84,7 +84,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Bridging analytics
+      text: Overview
       color: text-dark
       styles:
         self:
