@@ -86,7 +86,7 @@ sections:
         padding:
           - pb-5
           - pt-2
-          - pl-3
+          - pl-0
           - pr-0
         alignItems: flex-start
       subtitle:
