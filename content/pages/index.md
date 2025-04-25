@@ -137,7 +137,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/images.png
-        altText: Empathy logo
+        altText: Vertu Motors
         elementId: ''
       - type: ImageBlock
         url: /images/4.jpg
