@@ -1,0 +1,97 @@
+{
+    "model": "Header",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Header",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Header"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "header",
+                "title": "Benjamin Velastegui Lopez",
+                "logo": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "Logo dark",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "mr-3"
+                            ]
+                        }
+                    }
+                },
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Projects",
+                        "altText": "",
+                        "url": "/Projects",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "About Me",
+                        "altText": "",
+                        "url": "/empty",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "CV",
+                        "altText": "",
+                        "url": "/pricing",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "secondaryLinks": [
+                    {
+                        "$$type": "Button",
+                        "label": "Career opportunities",
+                        "altText": "Sign up",
+                        "url": "/career opportunities",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Button",
+                        "label": "Research collaboration",
+                        "altText": null,
+                        "url": "/Research",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "variant": "logo-left-primary-nav-centered",
+                "colors": "bg-light-fg-dark",
+                "styles": null
+            },
+            "thumbnail": "images/header-header-1d8d.png"
+        }
+    ]
+}
