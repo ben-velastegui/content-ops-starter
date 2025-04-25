@@ -131,25 +131,16 @@ sections:
       - type: FeaturedItem
         title: Domain
         subtitle: ''
-        text: >+
-          *   **Bioinformatics**: Developed predictive models for prostate
-          cancer classification
+        text: |+
+          *   **Bioinformatics**
 
+          *   **ESG Analytics**
 
-          *   **ESG Analytics**: Designed models for ESG risk impact analysis
-          and sustainable investment insights
+          *   **Climate Science**
 
+          *   **Financial Markets**
 
-          *   **Climate Science**: Analyzed climate-related data to support
-          environmentally driven projects
-
-
-          *   **Financial Markets**: Conducted data analysis for investment
-          planning and performance evaluation
-
-
-          *   **Marketing & Business Development**: Applied analytics to support
-          campaign performance and client growth strategies
+          *   **Marketing & Business Development**
 
         image:
           type: ImageBlock
