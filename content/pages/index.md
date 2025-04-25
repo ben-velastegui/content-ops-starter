@@ -102,7 +102,7 @@ sections:
         padding:
           - pt-3
           - pl-32
-          - pb-6
+          - pb-8
           - pr-8
         margin:
           - ml-0
