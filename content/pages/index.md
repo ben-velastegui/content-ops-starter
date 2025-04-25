@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: 'using statistics, ML, & BI.'
+    subtitle: ''
     text: ''
     actions:
       - type: Link
