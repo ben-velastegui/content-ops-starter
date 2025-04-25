@@ -88,6 +88,7 @@ sections:
           - pt-2
           - pl-3
           - pr-3
+        alignItems: flex-start
       subtitle:
         textAlign: left
   - type: DividerSection
