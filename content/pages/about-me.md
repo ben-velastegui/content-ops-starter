@@ -131,16 +131,18 @@ sections:
       - type: FeaturedItem
         title: Domain
         subtitle: ''
-        text: |+
-          *   **Bioinformatics**
+        text: >+
+          *   **Bioinformatics at Brunel University**
 
-          *   **ESG Analytics**
 
-          *   **Climate Science**
+          *   **ESG Analytics at Financial Conduct Authority**
 
-          *   **Financial Markets**
 
-          *   **Marketing & Business Development**
+          *   **Financial Markets at Santander, Virgin Money, and the** Bank
+          **of England**
+
+
+          *   **Marketing analytics at Vertu Motors**
 
         image:
           type: ImageBlock
