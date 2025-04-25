@@ -1,14 +1,6 @@
 {
     "text": "All rights reserved\n",
-    "socialLinks": [
-        {
-            "altText": "Email",
-            "url": "mailto:Benjamin.s.v.lopez@gmail.com",
-            "icon": "mail",
-            "type": "Social",
-            "elementId": "Email"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
