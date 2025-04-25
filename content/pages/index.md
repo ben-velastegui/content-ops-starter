@@ -18,8 +18,8 @@ sections:
       markets.
 
 
-      I use data and machine learning to power smarter decisions — currently
-      doing just that in marketing analytics at Vertu Motors.
+      I use data and artificial intelligence to power smarter decisions —
+      currently doing just that in marketing analytics at Vertu Motors.
     actions: []
     badge:
       type: Badge
