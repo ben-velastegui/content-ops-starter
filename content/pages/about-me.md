@@ -87,7 +87,7 @@ sections:
           - pb-5
           - pt-2
           - pl-3
-          - pr-3
+          - pr-0
         alignItems: flex-start
       subtitle:
         textAlign: left
