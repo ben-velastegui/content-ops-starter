@@ -5,7 +5,7 @@ date: '2024-09-11'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/cdc-w9KEokhajKw-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:
