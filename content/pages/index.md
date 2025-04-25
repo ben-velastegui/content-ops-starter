@@ -25,7 +25,8 @@ sections:
         label: LinkedIn
       - type: Link
         altText: GitHub
-        url: 'https://github.com/Ben-s-v-Lopez'
+        url: >-
+          https://github.com/ben-velastegui?tab=overview&from=2025-04-01&to=2025-04-25
         showIcon: true
         icon: github
         iconPosition: left
