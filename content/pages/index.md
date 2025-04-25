@@ -115,6 +115,7 @@ sections:
           - pl-5
           - pt-3
           - pb-3
+        alignItems: center
       subtitle:
         textAlign: left
       text:
