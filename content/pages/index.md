@@ -55,7 +55,7 @@ sections:
         textAlign: left
   - type: GenericSection
     title:
-      text: Welcome to my portfolio
+      text: ''
       color: text-dark
       type: TitleBlock
       styles:
