@@ -91,6 +91,8 @@ sections:
         alignItems: flex-start
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
