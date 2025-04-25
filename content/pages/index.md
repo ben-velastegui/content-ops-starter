@@ -117,6 +117,7 @@ sections:
           - pb-3
         alignItems: center
         justifyContent: center
+        flexDirection: row
       subtitle:
         textAlign: left
       text:
