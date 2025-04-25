@@ -102,7 +102,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: KEY INSIGHTS OF A
+      label: Data Scientist. Analyst. Problem Solver.
       color: text-primary
       styles:
         self:
