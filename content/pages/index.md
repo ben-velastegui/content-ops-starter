@@ -51,7 +51,7 @@ sections:
           - pr-8
         margin:
           - ml-0
-        justifyContent: center
+        justifyContent: flex-start
     media:
       type: ImageBlock
       url: /images/2330859 1.jpg
