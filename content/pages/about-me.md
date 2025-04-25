@@ -104,7 +104,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: '`tech-stack'
+        title: Tech-stack
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
