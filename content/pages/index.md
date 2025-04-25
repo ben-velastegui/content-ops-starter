@@ -15,7 +15,8 @@ sections:
     actions:
       - type: Link
         altText: LinkedIn
-        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
+        url: >-
+          https://www.linkedin.com/in/ben-lopez-15041a223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFY26csLuRYCLQTF7nXEqTw%3D%3D
         showIcon: true
         icon: linkedin
         iconPosition: left
