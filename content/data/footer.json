@@ -5,7 +5,8 @@
             "altText": "GitHub",
             "url": "https://github.com/ben-velastegui?tab=overview&from=2025-04-01&to=2025-04-25",
             "icon": "github",
-            "type": "Social"
+            "type": "Social",
+            "elementId": "Github"
         },
         {
             "altText": "LinkedIn link",
