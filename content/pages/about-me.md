@@ -105,7 +105,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Tech-stack
-        subtitle: Numbers Done
+        subtitle: ''
         text: "*   Proficient in\_Python,\_R, and\_MySQL\_for data analysis, modeling, and automation\n\n*   Experienced with\_data visualization tools\_such as\_Tableau\_and\_Power BI\n\n*   Built advanced machine learning models including\_hierarchical classification\_and\_risk assessment algorithms\n\n*   Developed dashboards to monitor performance and enhance internal processes\n\n*   Familiar with app development and prototyping (e.g.,\_Insight iOS app)\n\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
