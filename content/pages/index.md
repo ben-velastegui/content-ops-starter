@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Innovative. Analytical. Driven.
+    subtitle: 'Using statistics, ML, & BI'
     text: ''
     actions:
       - type: Link
