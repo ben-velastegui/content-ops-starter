@@ -15,6 +15,46 @@ sections:
           - pr-3
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Overview
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >
+      With a Master's in Data Science and a Bachelor's in Marketing, I combine
+      machine learning, analytics, and business strategy to solve real-world
+      problems — from ESG and climate science to bioinformatics and financial
+      markets.
+
+
+      I use data and machine learning to power smarter decisions — currently
+      doing just that in marketing analytics at Vertu Motors.
+    actions: []
+    badge:
+      type: Badge
+      label: Data Scientist. Analyst. Problem Solver.
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pl-0
+          - pt-3
+          - pb-3
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: left
+  - type: GenericSection
+    title:
       text: Welcome to my portfolio
       color: text-dark
       type: TitleBlock
@@ -84,46 +124,6 @@ sections:
             - ml-48
             - mb-0
             - mr-48
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Overview
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: >
-      With a Master's in Data Science and a Bachelor's in Marketing, I combine
-      machine learning, analytics, and business strategy to solve real-world
-      problems — from ESG and climate science to bioinformatics and financial
-      markets.
-
-
-      I use data and machine learning to power smarter decisions — currently
-      doing just that in marketing analytics at Vertu Motors.
-    actions: []
-    badge:
-      type: Badge
-      label: Data Scientist. Analyst. Problem Solver.
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pl-0
-          - pt-3
-          - pb-3
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
