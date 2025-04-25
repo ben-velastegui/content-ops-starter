@@ -31,7 +31,7 @@
         "type": "ThemeStyleHeading"
     },
     "h4": {
-        "size": "lg",
+        "size": "base",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
