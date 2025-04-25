@@ -1,6 +1,6 @@
 ---
 title: CV
-slug: pricing
+slug: CV
 sections:
   - title:
       text: Download my CV
