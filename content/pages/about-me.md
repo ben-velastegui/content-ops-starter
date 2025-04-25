@@ -168,7 +168,7 @@ sections:
       - type: FeaturedItem
         title: Impact
         subtitle: ''
-        text: "*   *   Boosted team productivity by\_15%\_through data training at Virgin Money*   Cut ACD failure rates by\_5%\_at Santander via root-cause analysis*   Reduced lead time by\_30%\_at Reeves Independent using CI/CD automation*   Improved ROI prediction accuracy by\_22%\_via regression in iOS app*   Promoted within 6 months for 3x increase in lead conversion targeting*   Built prostate cancer classifier with\_91%+ accuracy\_using hierarchical ML*   Automated national interest rate reporting at Bank of England, daily for global release*   Created ESG risk models adopted for compliance insights at FCA*   Launched iOS app with 50+ users, clustering for audience segmentation*   Delivered machine learning models in bioinformatics, finance & ESG domains\n\n"
+        text: "*   Boosted team productivity by\_15%\_through data training at Virgin Money\n\n*   Cut ACD failure rates by\_5%\_at Santander via root-cause analysis\n\n*   Reduced lead time by\_30%\_at Reeves Independent using CI/CD automation\n\n*   Improved ROI prediction accuracy by\_22%\_via regression in iOS app\n\n*   Promoted within 6 months for 3x increase in lead conversion targeting\n\n*   Built prostate cancer classifier with\_91%+ accuracy\_using hierarchical ML\n\n*   Automated national interest rate reporting at Bank of England, daily for global release\n\n*   Created ESG risk models adopted for compliance insights at FCA\n\n*   Launched iOS app with 50+ users, clustering for audience segmentation\n\n*   Delivered machine learning models in bioinformatics, finance & ESG domains\n\n"
         image:
           type: ImageBlock
           url: /images/icon3.svg
