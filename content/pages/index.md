@@ -91,7 +91,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      With a Master's in Data Science and a foundation in Marketing, I combine
+      With a Master's in Data Science and a Bachelor's in Marketing, I combine
       machine learning, analytics, and business strategy to solve real-world
       problems — from ESG and climate science to bioinformatics and financial
       markets.
