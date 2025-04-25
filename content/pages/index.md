@@ -89,7 +89,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Innovating with Machine Learning & Analytics
+    subtitle: Innovating with Machine Learning & Analytic
     text: >
       With a Master's in Data Science and a foundation in Marketing, I combine
       machine learning, analytics, and business strategy to solve real-world
