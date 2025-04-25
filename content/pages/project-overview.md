@@ -67,6 +67,6 @@ sections:
       type: TitleBlock
       text: Recent projects
       color: text-dark
-slug: /Projects
+slug: /Project overview
 isDraft: false
 ---
