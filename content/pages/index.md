@@ -241,7 +241,7 @@ sections:
           - pr-12
 seo:
   metaTitle: Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Welcome to my portfolio
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
