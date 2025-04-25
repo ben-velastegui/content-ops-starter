@@ -133,7 +133,7 @@ sections:
           - pb-3
           - pr-3
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
