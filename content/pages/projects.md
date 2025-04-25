@@ -48,7 +48,7 @@ sections:
     showThumbnail: true
     showExcerpt: false
     showDate: false
-    showAuthor: true
+    showAuthor: false
     actions: []
     elementId: ''
     variant: small-list
