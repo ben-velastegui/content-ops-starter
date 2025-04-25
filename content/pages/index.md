@@ -136,7 +136,7 @@ sections:
     subtitle: Career highlights
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/1.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
