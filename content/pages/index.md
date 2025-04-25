@@ -249,7 +249,7 @@ sections:
           self:
             borderWidth: 1
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/1.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
