@@ -86,7 +86,7 @@ sections:
         label: GitHub
       - label: Projects
         altText: ''
-        url: /Projects overview
+        url: /Project overview
         showIcon: true
         icon: arrowRight
         iconPosition: right
