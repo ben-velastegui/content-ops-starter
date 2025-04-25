@@ -84,7 +84,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Data Scientist. Analyst. Problem Solver.
+      text: Bridging analytics
       color: text-dark
       styles:
         self:
