@@ -8,12 +8,9 @@ sections:
       text: I'm not actively looking for my next challenge.
       color: text-dark
     subtitle: ''
-    text: |
-      Feel free to reach out at:
-
-      M: 077067 78347
-
-      E: <Benjamin.s.v.lopez@gmail.com>
+    text: >
+      Feel free to reach out at M: 077067 78347 or
+      <Benjamin.s.v.lopez@gmail.com>
     actions:
       - type: Button
         label: Contact me now
