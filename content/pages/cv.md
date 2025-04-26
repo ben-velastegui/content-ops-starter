@@ -39,7 +39,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: PDF available
-        price: BioTech
+        price: Biotechnology
         details: ''
         description: ''
         features: []
