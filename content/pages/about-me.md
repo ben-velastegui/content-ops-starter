@@ -110,8 +110,8 @@ sections:
         padding:
           - pb-8
           - pt-8
-          - pl-8
-          - pr-8
+          - pl-5
+          - pr-5
         justifyContent: center
       subtitle:
         textAlign: center
