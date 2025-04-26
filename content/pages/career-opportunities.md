@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: I'm not actively looking for my next challenge.
       color: text-dark
-    subtitle: Please reach out if interested.
+    subtitle: 'However, I''m happy to grow my network'
     text: |
       Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
     actions:
