@@ -16,7 +16,6 @@ sections:
         details: ''
         description: ''
         features:
-          - ''
           - Interested in helping improve patient outcomes
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
