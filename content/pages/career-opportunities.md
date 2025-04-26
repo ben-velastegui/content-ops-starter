@@ -9,7 +9,11 @@ sections:
       color: text-dark
     subtitle: 'However, I''m happy to grow my network'
     text: |
-      Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
+      Feel free to reach out at:
+
+      M: 077067 78347
+
+      E: <Benjamin.s.v.lopez@gmail.com>
     actions:
       - type: Button
         label: Contact me now
