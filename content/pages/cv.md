@@ -80,9 +80,6 @@ sections:
           Compliance and Monitoring System.
         features:
           - Experience modelling ESG risk on stock price
-          - >-
-            Awarded a national award for sustainable finance modelling on an
-            international platform
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
