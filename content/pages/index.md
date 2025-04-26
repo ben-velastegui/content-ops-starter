@@ -2,6 +2,37 @@
 title: Home
 slug: /
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items: []
+    actions: []
+    badge:
+      type: Badge
+      label: DATA SCIENTIST. ANALYST. PROBLEM SOLVER.
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-8
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -23,7 +54,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Data Scientist. Analyst. Problem Solver.
+      label: ''
       color: text-primary
       styles:
         self:
@@ -33,7 +64,7 @@ sections:
       self:
         padding:
           - pl-8
-          - pt-24
+          - pt-16
           - pb-24
           - pr-8
         alignItems: center
