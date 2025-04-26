@@ -75,7 +75,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Download
+          - label: View
             url: >-
               https://drive.google.com/file/d/1wpSbSCFDmWXiK3nJ7xdsCBvnZLo0L8jk/view?usp=share_link
             icon: arrowRight
