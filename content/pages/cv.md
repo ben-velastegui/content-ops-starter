@@ -79,7 +79,6 @@ sections:
           data analytics, as evidenced by my creation of the Sustainable Finance
           Compliance and Monitoring System.
         features:
-          - Experience using Bloomberg Terminal and Alpha Vantage API
           - Experience modelling ESG risk on stock price
           - >-
             Awarded a national award for sustainable finance modelling on an
