@@ -3,7 +3,7 @@ title: CV
 slug: CV
 sections:
   - title:
-      text: Download my CV
+      text: ''
       color: text-dark
       styles:
         self:
