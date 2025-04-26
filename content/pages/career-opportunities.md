@@ -5,11 +5,11 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: I'm actively looking for my next challenge!
+      text: I'm not actively looking for my next challenge.
       color: text-dark
-    subtitle: Please reach out if interested.
+    subtitle: ''
     text: |
-      Feel free to reach out at M: 077067 78347 or Benjamin.s.v.lopez\@gmail.com
+      To connect reach out at M: 077067 78347 or <Benjamin.s.v.lopez@gmail.com>
     actions:
       - type: Button
         label: Contact me now
@@ -45,10 +45,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
