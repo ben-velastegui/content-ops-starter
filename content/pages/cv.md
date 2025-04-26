@@ -15,8 +15,7 @@ sections:
         price: HealthTech
         details: ''
         description: ''
-        features:
-          - Interested in helping improve patient outcomes
+        features: []
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
           altText: HealthTech
