@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: PDF available
-        price: Health
+        price: Health analytics
         details: ''
         description: ''
         features: []
