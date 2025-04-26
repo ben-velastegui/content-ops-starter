@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: PDF available
-        price: HealthTech
+        price: Health
         details: ''
         description: ''
         features: []
