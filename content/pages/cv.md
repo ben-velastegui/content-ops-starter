@@ -14,10 +14,7 @@ sections:
       - title: PDF available
         price: HealthTech
         details: ''
-        description: >
-          Passionate about leveraging data science to advance healthcare
-          solutions, as demonstrated by my work in developing a hierarchical
-          classification model for prostate cancer.
+        description: ''
         features:
           - Proficient in R & other statistical modelling languages
           - Confident using a wide variety of machine learning techniques
