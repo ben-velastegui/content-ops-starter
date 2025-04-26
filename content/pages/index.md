@@ -4,116 +4,42 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to my portfolio website!
-      color: text-dark
       type: TitleBlock
-      styles:
-        self:
-          textAlign: left
-    subtitle: Innovative. Analytical. Driven.
-    text: ''
-    actions:
-      - type: Link
-        altText: LinkedIn
-        url: 'https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
-        altText: GitHub
-        url: 'https://github.com/Ben-s-v-Lopez'
-        showIcon: true
-        icon: github
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - label: Projects
-        altText: ''
-        url: /Projects
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-4
-          - pb-16
-          - pr-16
-    media:
-      type: ImageBlock
-      url: /images/2330859 1.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-0
-            - ml-48
-            - mb-0
-            - mr-48
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Data Scientist
+      text: Introduction
       color: text-dark
       styles:
         self:
-          textAlign: left
-    subtitle: Innovating with Machine Learning & Analytics
+          textAlign: center
+    subtitle: ''
     text: >
-      A London based data scientist. I hold a Master's degree in Data Science &
-      Analytics from Brunel University and a Bachelor's degree in Marketing from
-      Richmond American University. My work focuses on integrating machine
-      learning and data analytics to drive innovative business solutions.
+      With a Master's in Data Science and a Bachelor's in Marketing, I combine
+      machine learning, analytics, and business strategy to solve real-world
+      problems — from ESG and climate science to bioinformatics and financial
+      markets.
 
 
-      I'm passionate about using tech to tackle real world problems. My
-      experience is in bioinformatics, ESG analytics, climate science, and the
-      financial markets.
+      I use data and artificial intelligence to power smarter decisions —
+      currently doing just that in marketing analytics at Vertu Motors.
     actions: []
     badge:
       type: Badge
-      label: KEY INSIGHTS OF A
+      label: Data Scientist. Analyst. Problem Solver.
       color: text-primary
       styles:
         self:
-          textAlign: left
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pl-5
-          - pt-3
-          - pb-3
+          - pl-0
+          - pt-24
+          - pb-20
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
   - type: DividerSection
@@ -127,102 +53,60 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: CarouselSection
-    title: null
+  - type: GenericSection
+    title:
+      text: ''
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
-    items:
-      - title: BioTech
-        tagline: Industry interests
-        subtitle: Advancing Biological Treatments through Data Analytics
-        text: >
-          I am passionate about Biotech to apply data analytics and machine
-          learning in the discovery and development of innovative biological
-          treatments.
-        image:
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: large
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Sustainable Finance
-        tagline: Industry interests
-        subtitle: Promoting Ethical Investing with ESG Analytics
-        text: >
-          I want to work in the finance industry to apply my expertise in ESG
-          analytics and machine learning, helping organizations make data-driven
-          investment decisions that promote sustainability and ethical
-          practices.
-        image:
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: large
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: HealthTech
-        tagline: Industry interests
-        subtitle: 'Innovating Diagnostic Accuracy with Analytics, Machine Learning, & AI'
-        text: >
-          I want to work in HealthTech to develop predictive models and
-          personalized treatment plans that enhance patient care and optimize
-          healthcare resources.
-        image:
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
+    text: ''
+    actions:
+      - type: Link
+        altText: LinkedIn
+        url: >-
+          https://www.linkedin.com/in/ben-lopez-15041a223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFY26csLuRYCLQTF7nXEqTw%3D%3D
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
+        label: LinkedIn
+      - type: Link
+        altText: GitHub
+        url: >-
+          https://github.com/ben-velastegui?tab=overview&from=2025-04-01&to=2025-04-25
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
+        label: GitHub
+      - label: Projects
+        altText: ''
+        url: /Project overview
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        alignItems: center
+        flexDirection: row
         padding:
-          - pt-7
-      subtitle:
-        textAlign: center
+          - pt-8
+          - pl-32
+          - pb-8
+          - pr-8
+        margin:
+          - ml-0
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -230,14 +114,14 @@ sections:
     styles:
       self:
         padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home
+  metaDescription: Welcome to my portfolio
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
