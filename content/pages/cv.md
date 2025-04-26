@@ -16,7 +16,7 @@ sections:
         details: ''
         description: ''
         features:
-          - Proficient in R & other statistical modelling languages
+          - ''
           - Confident using a wide variety of machine learning techniques
           - Interested in helping improve patient outcomes
         image:
