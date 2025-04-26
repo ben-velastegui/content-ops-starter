@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Please choose according to the industry
+    subtitle: ''
     plans:
       - title: PDF available
         price: HealthTech
