@@ -15,7 +15,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: This is a badge
+      label: DATA SCIENTIST. ANALYST. PROBLEM SOLVER.
       color: text-primary
       styles:
         self:
