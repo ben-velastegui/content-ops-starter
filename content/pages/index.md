@@ -54,7 +54,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Data Scientist. Analyst. Problem Solver.
+      label: ''
       color: text-primary
       styles:
         self:
