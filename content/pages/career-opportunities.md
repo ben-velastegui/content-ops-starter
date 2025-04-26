@@ -5,11 +5,11 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: I'm not actively looking for my next challenge.
+      text: I'm not actively looking
       color: text-dark
     subtitle: ''
     text: |
-      To connect reach out at M: 077067 78347 or <Benjamin.s.v.lopez@gmail.com>
+      To network reach out at M: 077067 78347 or <Benjamin.s.v.lopez@gmail.com>
     actions:
       - type: Button
         label: Contact me now
