@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: I'm not actively looking for my next challenge.
       color: text-dark
-    subtitle: 'However, I''m happy to grow my network'
+    subtitle: ''
     text: |
       Feel free to reach out at:
 
