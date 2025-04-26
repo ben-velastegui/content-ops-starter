@@ -17,7 +17,6 @@ sections:
         description: ''
         features:
           - ''
-          - Confident using a wide variety of machine learning techniques
           - Interested in helping improve patient outcomes
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
