@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      To connect reach out at M: 077067 78347 or <Benjamin.s.v.lopez@gmail.com>
+      To network reach out at M: 077067 78347 or <Benjamin.s.v.lopez@gmail.com>
     actions:
       - type: Button
         label: Contact me now
