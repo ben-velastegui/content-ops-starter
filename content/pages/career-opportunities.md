@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: I'm not actively looking for my next challenge.
+      text: I'm not actively looking
       color: text-dark
     subtitle: ''
     text: |
