@@ -12,19 +12,13 @@ sections:
     subtitle: ''
     plans:
       - title: PDF available
-        price: HealthTech
+        price: Health analytics
         details: ''
-        description: >
-          Passionate about leveraging data science to advance healthcare
-          solutions, as demonstrated by my work in developing a hierarchical
-          classification model for prostate cancer.
-        features:
-          - Proficient in R & other statistical modelling languages
-          - Confident using a wide variety of machine learning techniques
-          - Interested in helping improve patient outcomes
+        description: ''
+        features: []
         image:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash 2.jpg
-          altText: Pricing plan 1
+          altText: HealthTech
           type: ImageBlock
         actions:
           - label: Download
@@ -45,22 +39,16 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: PDF available
-        price: BioTech
+        price: Biotechnology
         details: ''
-        description: >
-          My interest in BioTech stems from a deep commitment to utilizing
-          cutting-edge data analytics and machine learning to drive innovations
-          in biomarker discovery and genetic research.
-        features:
-          - 'Proficient in Python, R, and Bash scripting'
-          - Experience using Bioconductor and BLAST
-          - Extensive experience using NCBI database
+        description: ''
+        features: []
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
-          altText: Pricing plan 2
+          altText: Biotechnology
           type: ImageBlock
         actions:
-          - label: Download
+          - label: View
             url: >-
               https://drive.google.com/file/d/1-Ji1Y6LgzYl-aMQf1_vb-ohg7FBsyH1L/view?usp=share_link
             icon: arrowRight
@@ -80,16 +68,8 @@ sections:
       - title: PDF available
         price: Sustainable Finance
         details: ''
-        description: >
-          Deeply committed to promoting sustainable finance through advanced
-          data analytics, as evidenced by my creation of the Sustainable Finance
-          Compliance and Monitoring System.
-        features:
-          - Experience using Bloomberg Terminal and Alpha Vantage API
-          - Experience modelling ESG risk on stock price
-          - >-
-            Awarded a national award for sustainable finance modelling on an
-            international platform
+        description: ''
+        features: []
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
