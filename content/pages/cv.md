@@ -21,7 +21,7 @@ sections:
           altText: HealthTech
           type: ImageBlock
         actions:
-          - label: Download
+          - label: View
             url: >-
               https://drive.google.com/file/d/17NgZ6zeza7NobHeFL1LjVjyDBFsUYSym/view
             icon: arrowRight
