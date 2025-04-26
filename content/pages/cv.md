@@ -78,8 +78,7 @@ sections:
           Deeply committed to promoting sustainable finance through advanced
           data analytics, as evidenced by my creation of the Sustainable Finance
           Compliance and Monitoring System.
-        features:
-          - Experience modelling ESG risk on stock price
+        features: []
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
           altText: Pricing plan 3
