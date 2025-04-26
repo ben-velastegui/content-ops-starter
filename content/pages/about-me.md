@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Professional summary
+      text: Summary
       color: text-dark
       styles:
         self:
