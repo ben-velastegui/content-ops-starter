@@ -74,10 +74,7 @@ sections:
       - title: PDF available
         price: Sustainable Finance
         details: ''
-        description: >
-          Deeply committed to promoting sustainable finance through advanced
-          data analytics, as evidenced by my creation of the Sustainable Finance
-          Compliance and Monitoring System.
+        description: ''
         features: []
         image:
           url: /images/micheile-henderson-ZVprbBmT8QA-unsplash.jpg
