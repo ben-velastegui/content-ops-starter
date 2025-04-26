@@ -45,8 +45,7 @@ sections:
           My interest in BioTech stems from a deep commitment to utilizing
           cutting-edge data analytics and machine learning to drive innovations
           in biomarker discovery and genetic research.
-        features:
-          - Experience using Bioconductor and BLAST
+        features: []
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
           altText: Biotechnology
