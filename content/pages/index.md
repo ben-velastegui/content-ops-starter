@@ -64,7 +64,7 @@ sections:
       self:
         padding:
           - pl-8
-          - pt-24
+          - pt-16
           - pb-24
           - pr-8
         alignItems: center
