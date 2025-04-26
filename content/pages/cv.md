@@ -51,7 +51,7 @@ sections:
           - Extensive experience using NCBI database
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
-          altText: Pricing plan 2
+          altText: Biotechnology
           type: ImageBlock
         actions:
           - label: Download
