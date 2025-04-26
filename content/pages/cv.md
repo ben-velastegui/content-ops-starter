@@ -41,10 +41,7 @@ sections:
       - title: PDF available
         price: BioTech
         details: ''
-        description: >
-          My interest in BioTech stems from a deep commitment to utilizing
-          cutting-edge data analytics and machine learning to drive innovations
-          in biomarker discovery and genetic research.
+        description: ''
         features: []
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
