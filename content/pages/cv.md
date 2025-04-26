@@ -46,7 +46,6 @@ sections:
           cutting-edge data analytics and machine learning to drive innovations
           in biomarker discovery and genetic research.
         features:
-          - 'Proficient in Python, R, and Bash scripting'
           - Experience using Bioconductor and BLAST
         image:
           url: /images/cdc-w9KEokhajKw-unsplash.jpg
